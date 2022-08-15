@@ -2,6 +2,14 @@
 
 ## Most Valuable
 1. Random Thoughts - **High** Value, **High** Volume
+2. Youtube - **High** Value, **High** Volume
+3. Conversations - **High** Value, Low Volume
+
+---
+
+## Highest Volume
+1. Random Thoughts - **High** Value, **High** Volume
+2. Youtube - **High** Value, **High** Volume
 
 - Email (work)  - Medium Value, Low Volume
 - Email (personal) - Low Value, Low Volume
