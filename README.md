@@ -1,3 +1,13 @@
 # Niall's Notes
 
-This will be a landing page
+---
+
+## Index
+
+| Page Name | Link |
+| --------- | ---- |
+| Tasks     |      |
+| Projects  |      |
+| Areas     |      |
+| Resources |      |
+|           |      |
