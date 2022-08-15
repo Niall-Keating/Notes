@@ -4,10 +4,13 @@
 
 ## Index
 
-| Page Name | Link |
-| --------- | ---- |
-| Tasks     |      |
-| Projects  |      |
-| Areas     |      |
-| Resources |      |
-|           |      |
+| Page Name           | Link |
+| ------------------- | ---- |
+| Quick Capture       | [[]]     |
+| Tasks               |      |
+| Projects            |      |
+| Areas               |      |
+| Resources           |      |
+| Read or Watch Later |      |
+| Archives            |      |
+|                     |      |
