@@ -1,0 +1,3 @@
+# Quick Capture
+
+- Don't respond immediately, write it down here...
