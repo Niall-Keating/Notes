@@ -1,5 +1,8 @@
 # Most Important Inputs
 
+## Most Valuable
+1. Random Thoughts - **High** Value, **High** Volume
+
 - Email (work)  - Medium Value, Low Volume
 - Email (personal) - Low Value, Low Volume
 - Meetings - Medium Value, Medium Volume
