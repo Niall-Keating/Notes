@@ -1,6 +1,6 @@
 ---
 project: mySmartFlow
-date: 28-07-2022
+date: 07-07-2022
 type: external meeting
 ---
 
@@ -19,18 +19,9 @@ Attendees:
 
 
 Notes:
--   Denis happy to go with azure sdk 
+-   Currently they have a tool that they have given the ems that calls into Azure and  
     
--   Happy with lwip 
-    
--   Happy with device twin for config 
-    
--   Happy with just hourly flow 
-    
--   Need to maintain cellular connection 
-    
--   Need to have option for sw debounce  
-    
--   Have config message for ntp server 
-    
--   Niall to organise call next tuesday
+
+Ideally they want to use the Azure DPS,  
+
+They trust the EMA today

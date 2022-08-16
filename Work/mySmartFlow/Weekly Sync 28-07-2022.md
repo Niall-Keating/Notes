@@ -6,7 +6,7 @@ type: external meeting
 
 
 
-# Weekly Sync 21-07-2022 (External)
+# Weekly Sync 28-07-2022 (External)
 
 Attendees:
 - Niall
