@@ -1,3 +1,9 @@
+---
+project: mySmartFlow
+date: 10-08-2022
+type: project notes
+---
+
 What will be Device to Cloud Messages? 
 
 -   Hourly Flow Uploads
@@ -9,7 +15,7 @@ What will be Device Twin? 
     
 
 1.  Power Stats 
-	a)  Device operating on DC or Battery 
+	1.  Device operating on DC or Battery 
         
     2.  Battery level increments: 10% seems reasonable 
         
@@ -40,3 +46,14 @@ What will be Device Twin? 
     2.  Software/FW rev 
         
 5.  NTP server
+
+
+What will be Cloud to Device Messages?
+- ??
+
+
+What will be Direct Methods? 
+
+-   Asdsd 
+    
+-   Sd

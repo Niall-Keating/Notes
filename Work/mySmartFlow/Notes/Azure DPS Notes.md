@@ -1,3 +1,9 @@
+---
+project: mySmartFlow
+date: 14-06-2022
+type: project notes
+---
+
 ## Notes
 
 Process: 

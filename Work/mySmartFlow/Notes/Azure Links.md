@@ -1,3 +1,9 @@
+---
+project: mySmartFlow
+date: 08-08-2022
+type: project notes
+---
+
 ## Device Provisioning Service 
 
 -   Azure Architecture Docs: [https://docs.microsoft.com/en-us/azure/architecture/example-scenario/iot/attestation-provisioning](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/iot/attestation-provisioning)
