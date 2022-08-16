@@ -3,16 +3,21 @@
 Sharepoint: 
 GIthub:
 
-## Meetings
-| Date     | Subject                    | Notes         |
-| -------- | -------------------------- | ------------- |
-| 1/7/2022 | Initial Kickoff (Internal) | [[Initial Kickoff Meeting (Internal)]] |
-
-
 
 ```dataview
-TABLE date, project FROM "Work"
-WHERE project = "mySmartFlow" and type = "meeting"
+TABLE date, project, type FROM "Work"
+WHERE project = "mySmartFlow" and type = "internal meeting"
 SORT date ASC
 ```
 
+```dataview
+TABLE date, project, type FROM "Work"
+WHERE project = "mySmartFlow" and type = "external meeting"
+SORT date ASC
+```
+
+```dataview
+TABLE date, project, type FROM "Work"
+WHERE project = "mySmartFlow" and type = "project notes"
+SORT date ASC
+```
