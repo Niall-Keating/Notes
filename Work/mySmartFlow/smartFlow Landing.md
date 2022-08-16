@@ -10,3 +10,9 @@ GIthub:
 
 
 
+```dataview
+TABLE project FROM "Work"
+WHERE project = "mySMartF"
+
+```
+
