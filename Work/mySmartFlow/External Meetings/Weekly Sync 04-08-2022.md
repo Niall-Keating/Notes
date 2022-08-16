@@ -10,11 +10,12 @@ type: external meeting
 
 Attendees:
 - Niall
-- James
 - Fergal
 - Dave
 - Denis
 - Dominik
+- Adrian
+- Mike Collins
 
 
 Notes:
