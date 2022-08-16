@@ -5,7 +5,7 @@ type: external meeting
 ---
 
 
-# Internal Sync
+# Project Kickoff Meeting
 
 ### Attendees:
 - Niall Keating
