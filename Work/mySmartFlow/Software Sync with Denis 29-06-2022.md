@@ -15,120 +15,63 @@ type: external meeting
 
 
 ### Notes:
-Notes: 
+Notes 
 
--   Water usage monitoring 
+-   Logging 
     
--   Uploading usage data to cloud 
-    
--   One of the biggest things for them is sustainability 
-    
--   Think of it as a Smart water monitoring platform 
-    
-
-Marco – How often collect and upload and send data 
-
--   Pulse counter on meter 
-    
--   Upload once per hour 
-    
-    -   Contains a single value which is the count of the pulses 
+    -   Not looking for device to continuously stream logs to the cloud. 
         
-    -   NK Q: does cloud map pulses to the flow rate? 
+    -   Logs should be stored to EEPROM in a FiFo manner 
         
-
-Fergal – Battery backup 
-
--   Yes as per V2 
-    
-
-Fergal – Antenna Team, situations with poor signal coverage?  
-
--   2 devices in Dundrum town centre struggling with RF 
-    
--   They are using an external antenna 
-    
--   Underground in carpark in most circumstances 
-    
-
-Marco – What are the main hardware issues? 
-
--   Biggest issue is cellular connectivity and staying connected 
-    
--   When reconnecting, it can end up in a locked state that requires a restart 
-    
--   Need a button to power switch to restart 
-    
--   REQUIREMENT: WATCHDOG 
-    
--   The device should be well able of recovering itself 
-    
--   Some meter's don’t always return a nice square-wave 
-    
-    -   Software debounce? 
-        
-    -   Hardware debounce is preferable on Fergal's side 
-        
--   Fergal want's some kind of hardware restart instead of watch dog 
-    
--   Local logging? No – cloud logging 
-    
-    -   Need to clarify what they expect from logging? 
-        
-
-Fergal – WiFi back up? 
-
--   Dave shot this one down 
-    
-
-Denis sharing his requirements doc, this is the one we were looking at yesterday 
-
--   Time – Fergal – ESP32 has an RTC 
-    
--   Item 2:  
-    
-    -   Cloud wants to be able to request flow for a date and time 
-        
-    -   Ie store 1/3/6 months of data on the device and then allow cloud to pull this 
-        
--   Need ability for partial/real time flow readings 
-    
-    -   To help engineers on install process 
-        
-    -   Fergal wants to do a cable? 
-        
-    -   I think BLE? 
-        
--   Valves 
-    
-    -   Ground 
-        
-    -   Input to open valve 
-        
-    -   Input to close valve 
-        
-    -   Pin to check if valve is open or codes 
-        
-    -   5 valve positions 
-        
-        -   Commissioning just opens/closes all valves and checks status 
+        -   Contents of these logs is to be agreed at a later date 
             
-        -   If valve is in-between it will report unknown 
-            
-    -   Ability to open/close manually 
+    -   If a device is misbehaving, the cloud will send a cloud to device message requesting logs to be sent 
         
-        -   Current firmware doesn't implement functionality to periodically check the valve states 
-            
-        -   They would like this  
-            
-        -   Poll 30 mins/60 mins 
-            
-        -   Fergal proposing all times should be configurable 
-            
--   Sw reset of device is currently implemented, this needs to be retained 
+-   Factory Reset 
     
--   Centre button – hold for 3 seconds 
-    
-    -   Close valves 
+    -   Not looking for this to be done by a button, it should be a software step that is actioned over the service bus or a cloud to device message 
         
-    -   Next time button is held, open valves
+-   OTA  
+    
+    -   Denis was led to believe that OTA over cellular was more difficult, need to follow up on this with Fergal? 
+        
+    -   Most of their deployments are using cellular  
+        
+-   Cloud 
+    
+    -   Like the option of being cloud agnostic in the future 
+        
+    -   Using Azure for now 
+        
+    -   This leaves DeviceTwin functionality up in the air, we can recommend something in this regard 
+        
+-   SIMs 
+    
+    -   Using ESAY? sims at the moment 
+        
+    -   Evaluating Autonomo? SIMs and potentially looking to use themng Autonomo? 
+        
+    -   Want to be able to configure the APN remotely  
+        
+-   Discussion on Auth 
+    
+    -   TPM is preferred solution 
+        
+        -   Understands could be costly 
+            
+    -   Needs to see BOM to decide if they will go for it  
+        
+    -   When we know about TPM cost we can talk about Auth again 
+        
+    -   Feels SAS tokens are least secure of 3 options 
+        
+-   Provisioning: 
+    
+    -   Wants an option for auto provisioning so that they don't have to flash keys to EEPROM  
+        
+    -   Again we need to understand auth before making recommendations here. 
+        
+
+Internal Notes after the call 
+
+-   I think we should look at using Espressif components for modem and Azure SDK?
