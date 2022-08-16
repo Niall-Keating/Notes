@@ -5,7 +5,7 @@ type: external meeting
 ---
 
 
-# Project Kickoff Meeting
+# Software Sync with Denis
 
 ### Attendees:
 - Niall Keating
