@@ -1,19 +1,22 @@
 ---
 tags: test
 project: mySmartFlow
-date: 15-08-2022
+date: 16-07-2022
 type: meeting
 ---
 
 
-# Initial Kickoff Meeting (Internal)
+
+# Weekly Sync 01-06-2022 (External)
 
 Attendees:
 - Niall
 - Marco
 - James
 - Fergal
-- Adrian
+- Dave
+- Denis
+- Dominik
 
 
 Notes:
