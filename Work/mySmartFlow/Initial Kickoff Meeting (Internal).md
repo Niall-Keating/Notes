@@ -1,20 +1,22 @@
 ---
-tags: test
 project: mySmartFlow
-date: 15-08-2022
-type: meeting
+date: 16-06-2022
+type: internal meeting
 ---
 
 
 # Initial Kickoff Meeting (Internal)
 
 Attendees:
-- Niall
-- Marco
-- James
-- Fergal
-- Adrian
+- Niall Keating
+- Marco Pietri
+- James Addie
+- Fergal Brennan
+- Adrian Burns
+- Derek Browne
 
 
 Notes:
-- a note here
+- HLD 20 is just how long and what is required and cost of new firmware
+- Marco will be the Project Manager
+- Paddy Tuite will do the Hardware d
