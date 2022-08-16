@@ -9,7 +9,7 @@ What will be Device Twin? 
     
 
 1.  Power Stats 
-	1.  Device operating on DC or Battery 
+	a)  Device operating on DC or Battery 
         
     2.  Battery level increments: 10% seems reasonable 
         
