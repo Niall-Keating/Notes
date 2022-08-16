@@ -11,8 +11,8 @@ GIthub:
 
 
 ```dataview
-TABLE project FROM "Work"
-WHERE project = "mySmartFlow"
+TABLE date, project FROM "Work"
+WHERE project = "mySmartFlow" 
 
 ```
 
