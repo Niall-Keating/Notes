@@ -12,7 +12,7 @@ GIthub:
 
 ```dataview
 TABLE date, project FROM "Work"
-WHERE project = "mySmartFlow" 
-
+WHERE project = "mySmartFlow" and type = "meeting"
+SORT date ASC
 ```
 
