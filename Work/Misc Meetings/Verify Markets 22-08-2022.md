@@ -25,4 +25,6 @@ tags: [verify markets, genset, container tracking, reefer tracking, ig20, ig10, 
 - Micro plastics in water(pfacs/pfas?)
 	- Something to do with cleaning machinery?
 - Carbon offset credits in Africa??
-	- Some story about bri
+	- Some story about chopping down trees and bring them to burn for boiling water so can drink
+	- Some company did something to reduce this so that they could get carbon offset credits?
+	- Anthony thinks there is a market for rental comanies to monitor data for their credits?
