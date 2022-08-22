@@ -13,4 +13,11 @@ tags: [verify markets, genset, container tracking, reefer tracking, ig20, ig10, 
 - Adrian discussed India opportunity with Cummins
 	- We're too expensive
 	- India lowballing
-	- We are going t o
+	- We are going to start internal project to work on a cost down project
+	- I introduced the idea of kWh and fuel monitoring for demqnd charging
+		- Anthony had heard of this, CAT are looking into it.
+	- Anthony mentioned about a containerised temperature control project
+		- I think Reefers
+		- Circled back to confirm reefers for traceability monitoring
+		- Anthony can't share too much info but will send email in a few days
+	- 
