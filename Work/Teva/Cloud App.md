@@ -24,3 +24,5 @@ type: project notes
  - 
 
 ## My Ideas
+- Python webserver that runs locally, connects to the FTDI over web serial(if we don't need direct GPIO)
+- either a si
