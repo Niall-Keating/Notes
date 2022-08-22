@@ -15,4 +15,12 @@ type: project notes
 - Our app should confirm stats of ...
 - Two pieces of sw required, one to run locally and one in the cloud
 
+
+## My Research
+ - Teva repo:
+ - Looks like was a MQTT client at one stage
+ - Now using file upload endpoint instead?
+ - links:
+ - 
+
 ## My Ideas
