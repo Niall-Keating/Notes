@@ -10,3 +10,6 @@ mySmartFlow - [[smartFlow Landing]]
 
 Glen Dimplex - [[Glen Dimplex Landing]]
 	Ethernet Gateway
+
+Teva - 
+	Smart Inhaler
