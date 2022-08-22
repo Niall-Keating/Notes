@@ -25,4 +25,6 @@ type: project notes
 
 ## My Ideas
 - Python webserver that runs locally, connects to the FTDI over web serial(if we don't need direct GPIO)
-- either a si
+- either a new simple webserver othat accepts the requests from the device
+	- or reuse the existing DMS and use the API to poll somehow? 
+
