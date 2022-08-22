@@ -28,3 +28,9 @@ type: project notes
 - either a new simple webserver othat accepts the requests from the device
 	- or reuse the existing DMS and use the API to poll somehow? 
 
+## Architecture
+
+![[Drawing 2022-08-22 22.11.05.excalidraw.png]]
+
+1. Cloud App
+2. Laptop 
