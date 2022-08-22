@@ -6,18 +6,18 @@ GIthub:
 
 ```dataview
 TABLE date, project, type FROM "Work"
-WHERE project = "mySmartFlow" and type = "internal meeting"
+WHERE project = "Teva" and type = "internal meeting"
 SORT date ASC
 ```
 
 ```dataview
 TABLE date, project, type FROM "Work"
-WHERE project = "mySmartFlow" and type = "external meeting"
+WHERE project = "Teva" and type = "external meeting"
 SORT date ASC
 ```
 
 ```dataview
 TABLE date, project, type FROM "Work"
-WHERE project = "mySmartFlow" and type = "project notes"
+WHERE project = "Teva" and type = "project notes"
 SORT date ASC
 ```

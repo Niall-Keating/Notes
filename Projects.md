@@ -11,5 +11,5 @@ mySmartFlow - [[smartFlow Landing]]
 Glen Dimplex - [[Glen Dimplex Landing]]
 	Ethernet Gateway
 
-Teva - 
-	Smart Inhaler
+Teva - [[Teva Landing]]
+	Smart Inhaler with nordic nRF91 LTE-M modem.
