@@ -3,7 +3,7 @@ Table of Contents for miscelaneous notes
 
 
 ```dataview
-TABLE date, project, type FROM "Work"
-WHERE project = "Misc Meetings" and type = "architecture diagram"
+TABLE date, type, tags FROM "Work/Misc Meetings"
+WHERE type = "meeting notes"
 SORT date ASC
 ```
