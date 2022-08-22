@@ -33,4 +33,8 @@ type: project notes
 ![[Drawing 2022-08-22 22.11.05.excalidraw.png]]
 
 1. Cloud App
-2. Laptop 
+2. Laptop running test planner
+	- Controls the FT232
+	- Reads samples from cloud(Asyn or Sync)
+3. Teva SmartInhaler 
+4. LTE-M link to public internet/cloud
