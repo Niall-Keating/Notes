@@ -21,10 +21,25 @@ type: project notes
  - Looks like was a MQTT client at one stage
  - Now using file upload endpoint instead?
  - links:
- - The `/v1/<IMEI>/session/ ` endpoint us used to upload a JSON file of the following format:
+ - The `/v1/<IMEI>/session/ ` endpoint us used to upload a JSON file an example of which can be viewed below:
 ``` JSON
-
+{
+   "serial":"352656100817447",
+   "sample_count":"1.0",
+   "rssi":"-110.0",
+   "timestamp":"2022-06-30_13:05:32",
+   "samples":[
+      {
+         "epoch":"1656594307.0",
+         "bat_mv":"3563.0",
+         "pres_min":"429.72",
+         "duration_ms":"1406.0"
+      }
+   ]
+}
 ```
+- The files uploaded to the `session` endoint are saved to an internal `/media` folder on the cloud platform, for the Teva SmartInhaler testing that Pawel J has been condu 
+
 
 ## My Ideas
 - Python webserver that runs locally, connects to the FTDI over web serial(if we don't need direct GPIO)
