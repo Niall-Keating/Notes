@@ -18,13 +18,15 @@ tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, R
 	- CAT-M(BG77)
 	- LORA(Optional)
 	- BLE
+- Linux based under the hood(RouterOS)
 - Solid(Cast?) metal base and a plastic cover
 	- 1 Screw and 2 plastic clips for easily taking off the cover
 - Passively cooled
 - Dual-chain Wi-Fi Antennas 
 	- Note: the corner with the Wi-Fi antennas has a plastic base rather than metal.
 - Uses a PCI-E Connector for optional Lora daughter board
-- Plastic breakoff for access to the GPIO 
+- Plastic breakoff for access to the GPIO
+- PCBA is thermally connected to the base with stand-offs and Thermal Grease 
 
 ## Photos
 ![[KNOT-1.jpg]]
