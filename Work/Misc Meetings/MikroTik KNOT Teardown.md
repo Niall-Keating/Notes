@@ -18,6 +18,7 @@ tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, R
 	- CAT-M(BG77)
 	- LORA(Optional)
 	- BLE
+	- PCI-E(M)
 - Linux based under the hood(RouterOS)
 - Solid(Cast?) metal base and a plastic cover
 	- 1 Screw and 2 plastic clips for easily taking off the cover
@@ -39,4 +40,20 @@ tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, R
 
 ![[KNOT-5.jpg]]
 
-!
+![[KNOT-6.jpg]]
+
+![[KNOT-7.jpg]]
+
+![[KNOT-8.jpg]]
+
+![[KNOT-9.jpg]]
+
+![[KNOT-10.jpg]]
+
+![[KNOT-11.jpg]]
+
+![[KNOT-12.jpg]]
+
+![[KNOT-13.jpg]]
+
+![[KNOT-14.jpg]]
