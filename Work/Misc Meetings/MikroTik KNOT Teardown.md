@@ -1,7 +1,7 @@
 ---
-date: 22-08-2022
-type: meeting notes
-tags: [verify-markets, genset, container-tracking, reefer-tracking, ig20, ig10, industrial-gateway]
+date: 23-08-2022
+type: project notes
+tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT]
 ---
 
 ## Attendees
