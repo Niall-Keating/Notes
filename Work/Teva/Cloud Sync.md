@@ -22,6 +22,7 @@ Cloud Planning
 		- pres_min
 		- duration_ms
 	- All of the above values should use the single `epoch` uploaded for the collection of samples
-		- See sample payload in [[Cloud App Initial Thoughts#]]
+		- See sample payload in ![[Cloud App Initial Thoughts#Sample JSON]]
+		- sadsd
 - Once in TB we can write a script to poll TB/DMS API from test laptop
 	- 

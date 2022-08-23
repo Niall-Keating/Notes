@@ -18,11 +18,14 @@ tags: [EDGE Insights, DMS, AWS, Cloud App, FT232H]
 
 
 ## My Research
- - Teva repo:
- - Looks like was a MQTT client at one stage
- - Now using file upload endpoint instead?
- - links:
+- Teva repo:
+- Looks like was a MQTT client at one stage
+- Now using file upload endpoint instead?
+- links:
+- The files uploaded to the `session` endoint are saved to an internal `/media` folder on the cloud platform, for the Teva SmartInhaler testing that Pawel J has been conducting recently, this can be found at: `/var/www/firmwave-staging/media` 
+- A log file showing this transaction was sent by Pawel and is available here: ![[Teva_Logs_30-06-22-15h17m.txt]]
  - The `/v1/<IMEI>/session/ ` endpoint us used to upload a JSON file an example of which can be viewed below:
+
 ### Sample JSON
 ``` JSON
 {
@@ -40,8 +43,7 @@ tags: [EDGE Insights, DMS, AWS, Cloud App, FT232H]
    ]
 }
 ```
-- The files uploaded to the `session` endoint are saved to an internal `/media` folder on the cloud platform, for the Teva SmartInhaler testing that Pawel J has been conducting recently, this can be found at: `/var/www/firmwave-staging/media` 
-- A log file showing this transaction was sent by Pawel and is available here: ![[Teva_Logs_30-06-22-15h17m.txt]]
+
 
 
 ## My Ideas
