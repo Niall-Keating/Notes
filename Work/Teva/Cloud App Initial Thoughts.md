@@ -23,6 +23,7 @@ tags: [EDGE Insights, DMS, AWS, Cloud App, FT232H]
  - Now using file upload endpoint instead?
  - links:
  - The `/v1/<IMEI>/session/ ` endpoint us used to upload a JSON file an example of which can be viewed below:
+### Sample JSON
 ``` JSON
 {
    "serial":"352656100817447",
