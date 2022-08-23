@@ -2,6 +2,7 @@
 project: Teva
 date: 22-08-2022
 type: project notes
+tags: [EDGE Insights, DMS, AWS, Cloud App, FT232H]
 ---
 
 # Background
