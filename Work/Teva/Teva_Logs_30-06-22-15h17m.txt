@@ -1,0 +1,500 @@
+<NUL>[Warning: RX FRAMING ERROR]<NUL>***** Booting Zephyr OS v1.14.99-ncs2 *****
+<CR>
+<CR>
+*******************************<CR>
+******* Teva Smart Inhaler ! ******<CR>
+*******     MODIFIED!    ******<CR>
+*******************************<CR>
+Compiled: Jun 30 2022 11:16:43<CR>
+Version : 1.3.0.14<CR>
+<CR>
+<CR>
+Reset reason 00000000<CR>
+>>> AT+CFUN=0<CR>
+<CR>
+>>> AT%CMNG=0, 16842753, 0,"-----BEGIN CERTIFICATE-----
+MIIDSjCCAjKgAwIBAgIQRK+wgNajJ7qJMDmGLvhAazANBgkqhkiG9w0BAQUFADA/
+MSQwIgYDVQQKExtEaWdpdGFsIFNpZ25hdHVyZSBUcnVzdCBDby4xFzAVBgNVBAMT
+DkRTVCBSb290IENBIFgzMB4XDTAwMDkzMDIxMTIxOVoXDTIxMDkzMDE0MDExNVow
+PzEkMCIGA1UEChMbRGlnaXRhbCBTaWduYXR1cmUgVHJ1c3QgQ28uMRcwFQYDVQQD
+Ew5EU1QgUm9vdCBDQSBYMzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AN+v6ZdQCINXtMxiZfaQguzH0yxrMMpb7NnDfcdAwRgUi+DoM3ZJKuM/IUmTrE4O
+rz5Iy2Xu/NMhD2XSKtkyj4zl93ewEnu1lcCJo6m67XMuegwGMoOifooUMM0RoOEq
+OLl5CjH9UL2AZd+3UWODyOKIYepLYYHsUmu5ouJLGiifSKOeDNoJjj4XLh7dIN9b
+xiqKqy69cK3FCxolkHRyxXtqqzTWMIn/5WgTe1QLyNau7Fqckh49ZLOMxt+/yUFw
+7BZy1SbsOFU5Q9D8/RhcQPGX69Wam40dutolucbY38EVAjqr2m7xPi71XAicPNaD
+aeQQmxkqtilX4+U9m5/wAl0CAwEAAaNCMEAwDwYDVR0TAQH/BAUwAwEB/zAOBgNV
+HQ8BAf8EBAMCAQYwHQYDVR0OBBYEFMSnsaR7LHH62+FLkHX/xBVghYkQMA0GCSqG
+SIb3DQEBBQUAA4IBAQCjGiybFwBcqR7uKGY3Or+Dxz9LwwmglSBd49lZRNI+DT69
+ikugdB/OEIKcdBodfpga3csTS7MgROSR6cz8faXbauX+5v3gTt23ADq1cEmv8uXr
+AvHRAosZy5Q6XkjEGB5YGV8eAlrwDPGxrancWYaLbumR9YbK+rlmM6pZW87ipxZz
+R8srzJmwN0jP41ZL9c8PDHIyh8bwRLtTcm1D9SZImlJnt1ir/md2cXjbDaJWFBM5
+JDGFoqgCWjBH4d1QB7wCCZAA62RjYJsWvIjJEubSfZGL+T0yjWW06XyxV3bqxbYo
+Ob8VZRzI9neWagqNdwvYkQsEjgfbKbYK7p2CNTUQ
+-----END CERTIFICATE-----"<CR>
+[00:00:01.968,292] <ESC>[0m<inf> fwv: Initializing services<ESC>[0m
+[00:00:01.968,292] <ESC>[0m<inf> fwv: Initializing service: sm_service<ESC>[0m
+[00:00:01.968,322] <ESC>[0m<inf> sm: Initializing state machine: net_man<ESC>[0m
+<CR>
+I2C_check failed Line:98, rc -1<CR>
+Erasing flash<CR>
+No Storage control found, initialising...<CR>
+No uptime found, initialising...<CR>
+[00:00:02.789,123] <ESC>[0m<inf> network_manager: network closure id 2002a790<ESC>[0m
+[00:00:02.789,123] <ESC>[0m<inf> sm: Initializing state machine: app_sm<ESC>[0m
+[00:00:02.789,672] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952642 occurred for message 0<ESC>[0m
+[00:00:02.789,794] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:02.795,288] <ESC>[0m<inf> fs_nvs: 5 Sectors of 4096 bytes<ESC>[0m
+[00:00:02.795,288] <ESC>[0m<inf> fs_nvs: alloc wra: 0, fc8<ESC>[0m
+[00:00:02.795,318] <ESC>[0m<inf> fs_nvs: data wra: 0, 2e<ESC>[0m
+[00:00:02.796,691] <ESC>[0m<dbg> fs_nvs.nvs_flash_erase_sector: Erasing flash at fa000, len 4096<ESC>[0m
+[00:00:03.460,968] <ESC>[0m<inf> sm: Initializing state machine: ntp<ESC>[0m
+[00:00:03.460,998] <ESC>[0m<inf> ntp_sm: ntp closure id 2002bb90<ESC>[0m
+[00:00:03.461,059] <ESC>[0m<inf> sm: [ntp] Entering state idle<ESC>[0m
+[00:00:03.461,059] <ESC>[0m<inf> ntp_sm: NTP resync disabled<ESC>[0m
+[00:00:03.461,059] <ESC>[0m<inf> sm: Initializing state machine: dmsc<ESC>[0m
+[00:00:03.461,120] <ESC>[0m<inf> dms_client: dmsc closure id 2002c390<ESC>[0m
+[00:00:03.461,151] <ESC>[0m<inf> sm: [dmsc] Entering state sleep<ESC>[0m
+[00:00:03.461,151] <ESC>[0m<inf> dms_client: DMS resync disabled, going to sleep<ESC>[0m
+sampling started<CR>
+[00:00:08.627,288] <ESC>[0m<inf> event_manager: e: app_sm_event<ESC>[0m
+[00:00:08.627,319] <ESC>[0m<inf> sm: Received message name: 'app_sm_event', dst: 'app_sm'<ESC>[0m
+[00:00:08.627,319] <ESC>[0m<inf> sm: [app_sm] Exiting state inactive<ESC>[0m
+[00:00:08.627,319] <ESC>[0m<inf> sm: [app_sm] Entering s>>> AT%XVBAT<CR>
+tate sampling<ESC>[0m
+[00:00:10.357,940] <ESC>[0m<inf> event_manager: e: app_sm_event<ESC>[0m
+[00:00:10.357,971] <ESC>[0m<inf> sm: Received message name: 'app_sm_event', dst: 'app_sm'<ESC>[0m
+[00:00:10.357,971] <ESC>[0m<inf> app: Cap closed, stopping sampling<ESC>[0m
+[0%XVBAT: 3563<CR>
+<CR>
+0:00:10.357,971] <ESC>[0m<inf> sm: [app_sm] Exiting state sampling<ESC>[0m
+[00:00:10.357,971] <ESC>[0m<inf> sm: [app_sm] Entering state sampling_done<ESC>[0m
+Valid sample, minimum pressure of 99229Pa, from a sample set of 1406ms. Difference from baseline 429<CR>
+Written sample to flash index 0, total count 1<CR>
+89 samples taken, baseline 99658Pa, sampling duration 1734ms<CR>
+[00:00:10.464,691] <ESC>[0m<inf> event_manager: e: app_sm_event<ESC>[0m
+[00:00:10.464,721] <ESC>[0m<inf> sm: Received message name: 'app_sm_event', dst: 'app_sm'<ESC>[0m
+Triggering NTP resync<CR>
+>>> AT+CGSN<CR>
+[00:00:12.460,998] <ESC>[0m<inf> event_manager: e: app_sm_event<ESC>[0m
+[00:00:12.461,029] <ESC>[0m<inf> sm:352656100817447<CR>
+<CR>
+ Received message name: 'app_sm_event', dst: 'app_sm'<ESC>[0m
+[00:00:12.463,134] <ESC>[0m<inf> sm: [app_sm] Exiting state sampling_done<ESC>[0m
+[00:00:12.463,134] <ESC>[0m<inf> sm: [app_sm] Entering state inactive<ESC>[0m
+[00:00:12.463,195] <ESC>[0m<inf> event_manager: e: ntp_event<ESC>[0m
+[00:00:12.463,195] <ESC>[0m<inf> sm: Received message name: 'ntp_event', dst: 'ntp'<ESC>[0m
+[00:00:12.463,226] <ESC>[0m<inf> sm: [ntp] Exiting state idle<ESC>[0m
+[00:00:12.463,226] <ESC>[0m<inf> sm: [ntp] Exiting state active<ESC>[0m
+[00:00:12.463,226] <ESC>[0m<inf> sm: [ntp] Entering state inactive<ESC>[0m
+[00:00:12.463,287] <ESC>[0m<inf> sm: Received message name: 'ntp_event', dst: 'dmsc'<ESC>[0m
+[00:00:>>> AT+CGMM<CR>
+12.463,348] <ESC>[0m<inf> event_manager: e: net_man_event<ESC>[0m
+[00:00:12.463nRF9160-SICA<CR>
+<CR>
+,378] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'net_man'<ESC>[0m
+[00:00:12.463,378] <ESC>[0m<inf> sm: [net_man] Exiting state inactive<ESC>[0m
+[00:00:12.463,378] <ESC>[0m<inf> sm: [net_man] Entering state powering_on<ESC>[0m
+[00:00:12.463,439] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'ntp'<ESC>[0m
+[00:00:12.463,470] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'dmsc'<ESC>[0m
+>>> AT+CGMR<CR>
+mfw_nrf9160_1.0.1<CR>
+<CR>
+>>> AT+COPS=3,2<CR>
+<CR>
+>>> AT+CIMI<CR>
+204047123725180<CR>
+<CR>
+>>> AT+CGDCONT=0,"IP","cellular.firmwave.gdsp"<CR><CR>
+<CR>
+>>> AT%XSYSTEMMODE=1,0,0,0<CR>
+<CR>
+>>> AT+CFUN=1<CR>
+<CR>
+>>> AT+CEREG?<CR>
++CEREG: 0,4,"FFFE","FFFFFFFF",7<CR>
+<CR>
+[00:00:13.820,404] <ESC>[0m<inf> event_manager: e: net_man_event<ESC>[0m
+[00:00:13.820,434] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'net_man'<ESC>[0m
+[00:00:13.820,434] <ESC>[0m<inf> sm: [net_man] Exiting state powering_on<ESC>[0m
+[00:00:13.820,465] <ESC>[0m<inf> sm: [net_man] Entering state connecting<ESC>[0m
+[00:00:13.820,526] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'ntp'<ESC>[0m
+[00:00:13.820,556] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'dmsc'<ESC>[0m
+>>> AT+CEREG?<CR>
++CEREG: 0,4,"FFFE","FFFFFFFF",7<CR>
+<CR>
+>>> AT+CEREG?<CR>
++CEREG: 0,4,"FFFE","FFFFFFFF",7<CR>
+<CR>
+>>> AT+CEREG?<CR>
++CEREG: 0,2,"D2F3","03AB690D",7<CR>
+<CR>
+>>> AT+CEREG?<CR>
++CEREG: 0,5,"D2F3","03AB690D",7<CR>
+<CR>
+>>> AT+CRSM=176,12258,0,0,10<CR>
++CRSM: 144,0,"98134440007056430395"<CR>
+<CR>
+ICCID: 89314404000765343059<CR>
+>>> AT+CESQ<CR>
++CESQ: 99,99,255,255,255,30<CR>
+<CR>
+>>> AT+COPS?<CR>
++COPS: 0,2,"26003",7<CR>
+<CR>
+>>> AT+CGDCONT?<CR>
++CGDCONT: 0,"IP","cellular.firmwave.gdsp","100.67.126.32",0,0<CR>
+<CR>
+[00:00:19.203,216] <ESC>[0m<inf> event_manager: e: net_man_event<ESC>[0m
+[00:00:19.203,247] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'net_man'<ESC>[0m
+[00:00:19.203,247] <ESC>[0m<inf> sm: [net_man] Exiting state connecting<ESC>[0m
+[00:00:19.203,277] <ESC>[0m<inf> sm: [net_man] Entering state connected<ESC>[0m
+[00:00:19.203,308] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'ntp'<ESC>[0m
+[00:00:19.203,308] <ESC>[0m<inf> sm: [ntp] Exiting state inactive<ESC>[0m
+[00:00:19.203,308] <ESC>[0m<inf> sm: [ntp] Entering state active<ESC>[0m
+[00:00:19.203,308] <ESC>[0m<inf> sm: [ntp] Entering state busy<ESC>[0m
+[00:00:19.203,369] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'dmsc'<ESC>[0m
+[00:00:19.203,521] <ESC>[0m<inf> ntp_sm: Trying to get NTP time<ESC>[0m
+>>> AT+CCLK="22/06/30,13:05:19+00"<CR>
+Triggering DMS connection<CR>
+[00:00:19.653,717] <ESC>[0m<inf> ntp_sm: NTP Time 2022/06/30,13:05:19+00 (ERR)<ESC>[0m
+[00:00:19.721,252] <ESC>[0m<inf> event_manager: e: dmsc_event<ESC>[0m
+[00:00:19.721,282] <ESC>[0m<inf> sm: Received message name: 'dmsc_event', dst: 'dmsc'<ESC>[0m
+[00:00:19.721,282] <ESC>[0m<inf> sm: [dmsc] Exiting state sleep<ESC>[0m
+[00:00:19.721,282] <ESC>[0m<inf> sm: [dmsc] Entering state inactive<ESC>[0m
+[00:00:19.721,374] <ESC>[0m<inf> event_manager: e: net_man_event<ESC>[0m
+[00:00:19.721,374] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'net_man'<ESC>[0m
+[00:00:19.721,435] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'ntp'<ESC>[0m
+[00:00:19.721,496] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'dmsc'<ESC>[0m
+[00:00:19.721,527] <ESC>[0m<inf> event_manager: e: net_man_event<ESC>[0m
+[00:00:19.721,557] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'net_man'<ESC>[0m
+[00:00:19.721,618] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'ntp'<ESC>[0m
+[00:00:19.721,649] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'dmsc'<ESC>[0m
+[00:00:19.721,740] <ESC>[0m<inf> event_manager: e: ntp_event<ESC>[0m
+[00:00:19.721,771] <ESC>[0m<inf> sm: Received message name: 'ntp_event', dst: 'ntp'<ESC>[0m
+[00:00:19.721,801] <ESC>[0m<inf> sm: [ntp] Exiting state busy<ESC>[0m
+[00:00:19.721,801] <ESC>[0m<inf> sm: [ntp] Entering state idle<ESC>[0m
+[00:00:19.721,801] <ESC>[0m<inf> ntp_sm: NTP resync disabled<ESC>[0m
+[00:00:19.721,832] <ESC>[0m<inf> sm: Received message name: 'ntp_event', dst: 'dmsc'<ESC>[0m
+[00:00:19.721,832] <ESC>[0m<inf> sm: [dmsc] Exiting state inactive<ESC>[0m
+[00:00:19.721,832] <ESC>[0m<inf> sm: [dmsc] Entering state init_server_con<ESC>[0m
+[00:00:19.721,923] <ESC>[0m<inf> event_manager: e: net_man_event<ESC>[0m
+[00:00:19.721,923] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'net_man'<ESC>[0m
+[00:00:19.721,984] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'ntp'<ESC>[0m
+[00:00:19.722,015] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'dmsc'<ESC>[0m
+[00:00:19.722,137] <ESC>[0m<inf> dmsc_uhttp_interface: Attemping to resolve dev.firmwave.com<ESC>[0m
+[00:00:24.088,531] <ESC>[0m<inf> dmsc_uhttp_interface: IPv4 Address 34.247.91.240:443<ESC>[0m
+[00:00:24.088,897] <ESC>[0m<inf> dmsc_uhttp_interface: Attempting connection to dev.firmwave.com:443<ESC>[0m
+>> HEAD /v1/352656100817447/conf/ HTTP/1.1<CR>
+Host: dev.firmwave.com:443<CR>
+Accept: */*<CR>
+Authenticate: liqd/1.0 init<CR>
+Auth-Method: ECDSA<CR>
+Content-Length: 0<CR>
+<CR>
+<CR>
+[00:00:28.937,713] <ESC>[0m<inf> dmsc_uhttp_interface: HTTP Connected<ESC>[0m
+[00:00:28.937,805] <ESC>[0m<inf> dmsc_uhttp_interface: HEAD /v1/352656100817447/conf/<LF><ESC>[0m
+HTTP/1.1 401 Unauthorized<CR>
+Server: nginx/1.4.6 (Ubuntu)<CR>
+Date: Thu, 30 Jun 2022 13:02:24 GMT<CR>
+Content-Length: 0<CR>
+Connection: keep-alive<CR>
+Vary: Accept<CR>
+Auth-Challenge: 355c30132781023b7497f96aa0bda9aa1dcbf4c3bdcc02c82cb55729a4fe826b<CR>
+Allow: GET, HEAD, OPTIONS<CR>
+Auth-Method: ECDSA<CR>
+<CR>
+<CR>
+>> GET /v1/352656100817447/conf/ HTTP/1.1<CR>
+Host: dev.firmwave.com:443<CR>
+Accept: */*<CR>
+Authenticate: liqd/1.0 init<CR>
+Auth-Method: ECDSA<CR>
+Auth-Challenge: 355c30132781023b7497f96aa0bda9aa1dcbf4c3bdcc02c82cb55729a4fe826b<CR>
+Auth-Response: FCA23E2B36C87B0F5400F9C02834A1D23800C9684B10641E7B5D95B51747D6F135F294C6C49252D6360CF3EBF9973B546C244EC658D42A8BF646883BC813B1FF<CR>
+Content-Length: 0<CR>
+<CR>
+<CR>
+[00:00:29.166,839] <ESC>[1;31m<err> dmsc_uhttp_interface: HEAD. Start: 3031919259, Stop: 3031919486, Duration: 227
+<ESC>[0m
+[00:00:29.166,900] <ESC>[0m<inf> dmsc_auth: Auth-Challenge is 355c30132781023b7497f96aa0bda9aa1dcbf4c3bdcc0~<ESC>[0m
+[00:00:29.167,663] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:29.265,899] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:29.320,526] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:29.515,808] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:29.532,135] <ESC>[0m<inf> dmsc_auth: Auth-Response: FCA23E2B36C87B0F5400F9C02834A1D23800C9684B106~<ESC>[0m
+[00:00:29.532,16HTTP/1.1 200 OK<CR>
+Server: nginx/1.4.6 (Ubuntu)<CR>
+Date: Thu, 30 Jun 2022 13:02:25 GMT<CR>
+Content-Type: application/json<CR>
+Content-Length: 832<CR>
+Connection: keep-alive<CR>
+Vary: Accept<CR>
+Allow: GET, HEAD, OPTIONS<CR>
+<CR>
+{"serial":"352656100817447","hash":"b7f13af8486fa0c172d9aad0c84e7224b7a60b75013f1f8a5b43236091ea8470","com_interval":3600,"com_offset":60,"com_retries":3,"mfw":"2.18","certs":20,"certs_hash":"b4d228109f49fe83284422138611569e42b1cfee7059edae4e56844ed455c4cc","ble":false,"url":"https://dev.firmwave.com","stats":false,"alarm_enabled":false,"logging_enabled":false,"fw0":"1.0.0.65","fw0_url":"https://dev.firmwave.com/media/edge_firmware/x86/edge_connect_dev.firmwave.com_internet4gd.gdsp_enc_BBCzL5v.bin","fw1":"1.0.0.65","fw1_url":"https://dev.firmwave.com/media/edge_firmware/ARC/edge_connect_dev.firmwave.com_internet4gd.gdsp_enc_pmspI7s.bin","db":{"url":"https://dev.firmwave.com/v2/","type":"firmwave","id":"352656100817447","key":"uVE0uE3SyEJO3nTThI82"},"sensors":{"ambient_light":900,"pressure":900,"temp":900,"humidity":900}}<CR>
+5] <ESC>[0m<inf> dmsc>> HEAD /v1/352656100817447/report/ HTTP/1.1<CR>
+Host: dev.firmwave.com:443<CR>
+Accept: */*<CR>
+Authenticate: liqd/1.0 init<CR>
+Auth-Method: ECDSA<CR>
+Auth-Challenge: 355c30132781023b7497f96aa0bda9aa1dcbf4c3bdcc02c82cb55729a4fe826b<CR>
+Auth-Response: FCA23E2B36C87B0F5400F9C02834A1D23800C9684B10641E7B5D95B51747D6F135F294C6C49252D6360CF3EBF9973B546C244EC658D42A8BF646883BC813B1FF<CR>
+Content-Length: 0<CR>
+<CR>
+<CR>
+_uhttp_interface: GET /v1/352656100817447/conf/<LF><ESC>[0m
+[00:00:30.155,029] <ESC>[1;31m<err> dmsc_uhttp_interface: GET. Start: 3031919853, Stop: 3031920470, Duration: 617
+<ESC>[0m
+[00:00:30.157,409] <ESC>[0m<inf> dms_client: Device serial is 352656100817447
+<ESC>[0m
+[00:00:30.157,409] <ESC>[0m<inf> dms_client: Return code is 200<LF><ESC>[0m
+[00:00:30.157,562] <ESC>[0m<inf> dmsc_uhttp_interface: HEAD /v1/352656100817447/report/<LF><ESC>[0m
+HTTP/1.1 401 Unauthorized<CR>
+Server: nginx/1.4.6 (Ubuntu)<CR>
+Date: Thu, 30 Jun 2022 13:02:25 GMT<CR>
+Content-Length: 0<CR>
+Connection: keep-alive<CR>
+Vary: Accept<CR>
+Auth-Challenge: d759953ae7a34eb0f40d004c557c7f1ad9666b560c11a77349c89647a1d0878b<CR>
+Allow: PUT, HEAD, OPTIONS<CR>
+Auth-Method: ECDSA<CR>
+<CR>
+<CR>
+>> PUT /v1/352656100817447/report/ HTTP/1.1<CR>
+Host: dev.firmwave.com:443<CR>
+Accept: */*<CR>
+Authenticate: liqd/1.0 init<CR>
+Auth-Method: ECDSA<CR>
+Content-Type: application/json<CR>
+Auth-Challenge: d759953ae7a34eb0f40d004c557c7f1ad9666b560c11a77349c89647a1d0878b<CR>
+Auth-Response: 4C0E29DBFC5F899DAF93579EF5A605FE2FE3A6D30F1E344248C4D9526147D792BEA309432711FE2D0C5E052FE6D3330E9239A699CB21FA74FADBFA3ADD7FB9AE<CR>
+Content-Length: 198<CR>
+<CR>
+{
+    "hash": "b7f13af8486fa0c172d9aad0c84e7224b7a60b75013f1f8a5b43236091ea8470",
+    "fw0": "1.3.0.14",
+    "fw1": "1.3.0.14",
+    "mfw": "mfw_nrf9160_1.0.1",
+    "certs": "20",
+    "certs_p": ""
+}<CR>
+HTTP/1.1 200 OK<CR>
+Server: nginx/1.4.6 (Ubuntu)<CR>
+Date: Thu, 30 Jun 2022 13:02:26 GMT<CR>
+Content-Length: 0<CR>
+Connection: keep-alive<CR>
+Vary: Accept<CR>
+Allow: PUT, HEAD, OPTIONS<CR>
+<CR>
+<CR>
+>>> AT+CESQ<CR>
+[00+CESQ: 99,99,255,255,255,30<CR>
+<CR>
+:00:30.463,714] <ESC>[1;31m<err> dmsc_uhttp_interface: HEAD. Start: 3031920478, Stop: 3031920782, Duration: 304
+<ESC>[0m
+[00:00:30.463,775] <ESC>[0m<inf> dmsc_auth: Auth-Challenge is d759953ae7a34eb0f40d004c557c7f1ad9666b560c11a~<ESC>[0m
+[00:00:30.464,569] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:30.562,774] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:30.617,401] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:30.812,683] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:30.829,010] <ESC>[0m<inf> dmsc_auth: Auth-Response: 4C0E29DBFC5F899DAF93579EF5A6>> HEAD /v1/352656100817447/connection_details/ HTTP/1.1<CR>
+Host: dev.firmwave.com:443<CR>
+Accept: */*<CR>
+Authenticate: liqd/1.0 init<CR>
+Auth-Method: ECDSA<CR>
+Content-Length: 0<CR>
+<CR>
+<CR>
+05FE2FE3A6D30F1E3~<ESC>[0m
+[00:00:30.830,352] <ESC>[0m<inf> dmsc_uhttp_interface: PUT /v1/352656100817447/report/<LF><ESC>[0m
+[00:00:31.211,425] <ESC>[1;31m<err> dmsc_uhttp_interface: PUT. Start: 3031921150, Stop: 3031921532, Duration: 382
+<ESC>[0m
+[00:00:31.211,456] <ESC>[0m<inf> dms_client: Return code is 200<LF><ESC>[0m
+[00:00:31.273,651] <ESC>[0m<inf> dmsc_uhttp_interface: HEAD /v1/352656100817447/connection_details/<LF><ESC>[0m
+HTTP/1.1 401 Unauthorized<CR>
+Server: nginx/1.4.6 (Ubuntu)<CR>
+Date: Thu, 30 Jun 2022 13:02:26 GMT<CR>
+Content-Length: 0<CR>
+Connection: keep-alive<CR>
+Vary: Accept<CR>
+Auth-Challenge: cecbaa33d0f1bdd822d98358d23c108d1393e4f2dc5e4e1ace6da4c66c0acd3e<CR>
+Allow: PUT, HEAD, OPTIONS<CR>
+Auth-Method: ECDSA<CR>
+<CR>
+<CR>
+>> PUT /v1/352656100817447/connection_details/ HTTP/1.1<CR>
+Host: dev.firmwave.com:443<CR>
+Accept: */*<CR>
+Authenticate: liqd/1.0 init<CR>
+Auth-Method: ECDSA<CR>
+Content-Type: application/json<CR>
+Auth-Challenge: cecbaa33d0f1bdd822d98358d23c108d1393e4f2dc5e4e1ace6da4c66c0acd3e<CR>
+Auth-Response: 804B4D2B707DC9DC28E3361236A1B15B29F65E01281BF7DFC9FD31A17CE331072C50ADF40B23B57989934FA01F56D81F459866DECCAD1183E50BD9C7949946D7<CR>
+Content-Length: 96<CR>
+<CR>
+{
+    "network_rssi": "-110.000",
+    "network_type": "CAT-M",
+    "network_operator": "26003"
+}<CR>
+[00:00:31.565,277] <ESC>[1;31m<err> dmsc_uhttp_interface: HEAD. Start: 3031921595, Stop: 3031921884, Duration: 289
+<ESC>[0m
+[00:00:31.565,338] <ESC>[0m<inf> dmsc_auth: Auth-Challenge is cecbaa33d0f1bdd822d98358d23c108d1393e4f2dc5e4~<ESC>[0m
+[00:00:31.566,101] <ESC>[1;31m<err> i2c_nrfxHTTP/1.1 400 Bad Request<CR>
+Server: nginx/1.4.6 (Ubuntu)<CR>
+Date: Thu, 30 Jun 2022 13:02:27 GMT<CR>
+Content-Type: application/json<CR>
+Content-Length: 53<CR>
+Connection: keep-alive<CR>
+Vary: Accept<CR>
+Allow: PUT, HEAD, OPTIONS<CR>
+<CR>
+{"network_type":["\"CAT-M\" is not a valid choice."]}<CR>
+_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:31.664,337] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:31.718,963] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:31.914,245] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:31.930,572] <ESC>[0m<inf> dmsc_auth: Auth-Response: 804B4D2B707DC9DC28E3361236A1B15B29F65E01281BF~<ESC>[0m
+[00:00:31.931,549] <ESC>[0m<inf> dmsc_uhttp_interface: PUT /v1/352656100817447/connection_details/<LF><ESC>[0m
+[00:00:32.376,159] <ESC>[1;31m<err> dmsc_uhttp_interface: PUT. Start: 3031922251, Stop: 3031922697, Duration: 446
+<ESC>[0m
+[00:00:32.376,220] <ESC>[0m<inf> dms_client: DMSC status OK
+<ESC>[0m
+[00:00:32.376,251] <ESC>[0m<inf> event_manager: e: dmsc_event<ESC>[0m
+[00:00:32.376,251] <ESC>[0m<inf> sm: Received message name: 'dmsc_event', dst: 'dmsc'<ESC>[0m
+[00:00:32.376,281] <ESC>[0m<inf> sm: [dmsc] Exiting state init_server_con<ESC>[0m
+[00:00:32.376,281] <ESC>[0m<inf> sm: [dmsc] Entering state active<ESC>[0m
+[00:00:32.376,281] <ESC>[0m<inf> sm: [dmsc] Initial transition active<ESC>[0m
+[00:00:32.376,281] <ESC>[0m<inf> sm: [idle] Entering state active<ESC>[0m
+[00:00:32.376,312] <ESC>[0m<inf> dms_client: DMS client resync scheduled in 1 s
+<ESC>[0m
+>>> AT+CESQ<CR>
++CESQ: 99,99,255,255,255,30<CR>
+<CR>
+Overwritten sample to flash index 0, total count 1<CR>
+>> HEAD /v1/352656100817447/session/ HTTP/1.1<CR>
+Host: dev.firmwave.com:443<CR>
+Accept: */*<CR>
+Authenticate: liqd/1.0 init<CR>
+Auth-Method: ECDSA<CR>
+Content-Type: application/json<CR>
+Auth-Challenge: cecbaa33d0f1bdd822d98358d23c108d1393e4f2dc5e4e1ace6da4c66c0acd3e<CR>
+Auth-Response: 804B4D2B707DC9DC28E3361236A1B15B29F65E01281BF7DFC9FD31A17CE331072C50ADF40B23B57989934FA01F56D81F459866DECCAD1183E50BD9C7949946D7<CR>
+Content-Length: 0<CR>
+<CR>
+<CR>
+[00:00:33.375,061] <ESC>[0m<inf> event_manager: e: dmsc_event<ESC>[0m
+[00:00:33.375,091] <ESC>[0m<inf> sm: Received message name: 'dmsc_event', dst: 'dmsc'<ESC>[0m
+[00:00:33.375,274] <ESC>[0m<inf> sm: [dmsc] Exiting state idle<ESC>[0m
+[00:00:33.375,305] <ESC>[0m<inf> sm: [dmsc] Entering state busy<ESC>[0m
+[00:00:33.444,244] <ESC>[0m<inf> dmsc_uhttp_interface: HEAD /v1/352656100817447/session/<LF><ESC>[0m
+HTTP/1.1 401 Unauthorized<CR>
+Server: nginx/1.4.6 (Ubuntu)<CR>
+Date: Thu, 30 Jun 2022 13:02:28 GMT<CR>
+Content-Length: 0<CR>
+Connection: keep-alive<CR>
+Vary: Accept<CR>
+Auth-Challenge: ccbf1d1e6168a75356fbed94d39c510604b7ded8c1ed6a1c4a0329ffaaaceda5<CR>
+Allow: POST, HEAD, OPTIONS<CR>
+Auth-Method: ECDSA<CR>
+<CR>
+<CR>
+>> POST /v1/352656100817447/session/ HTTP/1.1<CR>
+Host: dev.firmwave.com:443<CR>
+Accept: */*<CR>
+Authenticate: liqd/1.0 init<CR>
+Auth-Method: ECDSA<CR>
+Content-Type: application/json<CR>
+Auth-Challenge: ccbf1d1e6168a75356fbed94d39c510604b7ded8c1ed6a1c4a0329ffaaaceda5<CR>
+Auth-Response: 94EAA7E0B84BAEE6EB33EF999BC6E2FBB0B74802EBC557230F37AD7C54F23EBA7F4271BE1A5FDB16E3431754AA620FF9634112034CA97A9F9270DB32E1A3EBC5<CR>
+Connection-Type: keep-alive<CR>
+Content-Type: multipart/form-data; boundary=MultiformBoundry<CR>
+Content-Length: 477<CR>
+<CR>
+--MultiformBoundry<CR>
+Content-Disposition: form-data; name="device_id"<CR>
+<CR>
+352656100817447<CR>
+--MultiformBoundry<CR>
+Content-Disposition: form-data; name="session_data"; filename="sample_upload_2022_06_30_13_05_32.json"<CR>
+Content-Type: application/octet-stream<CR>
+<CR>
+<CR>
+[00:00:33.815,368] <ESC>[1;31m<err> dmsc_uhttp_interface: HEAD. Start: 3031923759, Stop: 3031924134, Duration: 375
+<ESC>[0m
+[00:00:33.815,429] <ESC>[0m<inf> dmsc_auth: Auth-Challenge is ccbf1d1e6168a75356fbed94d39c510604b7ded8c1ed6~<ESC>[0m
+[00:00:33.816,192] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:33.914,337] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:33.968,963] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:34.164,245] <ESC>[1;31m<err> i2c_nrfx_twim: Error 195952641 occurred for message 0<ESC>[0m
+[00:00:34.180,572] <ESC>[0m<inf> dmsc_auth: Auth-Response: 94EAA7E0B84BAEE6EB33EF999BC6E2FBB0B74802EBC55~<ESC>[0m
+[00:00:34.181,060] <ESC>[0m<inf> dmsc_uhttp_interface: len: 255<ESC>[0m
+[00:00:34.257,232] <ESC>[1;31m<err> dmsc_uhttp_interface: MULTI-POST. Start: 3031924501, Stop: 3031924572, Duration: 71
+<ESC>[0m
+[00:00:34.257,263] <ESC>[0m<inf> dms_client: Return code is 401<ESC>[0m
+>> {"serial":"352656100817447","sample_count":"1.0","rssi":"-110.0", "timestamp":"2022-06-30_13:05:32","samples":[{"epoch":"1656594307.0","bat_mv":"3563.0","pres_min":"429.72","duration_ms":"1406.0"}]}<CR>
+>> <CR>
+--MultiformBoundry--<CR>
+<CR>
+[00:00:34.757,934] <ESC>[0m<inf> dmsc_uhttp_interface: len: 198<ESC>[0m
+[00:00:34.776,641] <ESC>[1;31m<err> dmsc_uhttp_interface: MULTI-POST. Start: 3031925079, Stop: 3031925095, Duration: 16
+<ESC>[0m
+[00:00:34.776,641] <ESC>[0m<inf> dms_client: Return code is 401<ESC>[0m
+[00:00:35.281,372] <ESC>[0m<inf> dmsc_uhttp_interface: len: 24<ESC>[0m
+HTTP/1.1 200 OK<CR>
+Server: nginx/1.4.6 (Ubuntu)<CR>
+Date: Thu, 30 Jun 2022 13:02:31 GMT<CR>
+Content-Length: 0<CR>
+Connection: keep-alive<CR>
+Vary: Accept<CR>
+Allow: POST, HEAD, OPTIONS<CR>
+<CR>
+<CR>
+[00:00:35.859,954] <ESC>[1;31m<err> dmsc_uhttp_interface: MULTI-POST. Start: 3031925603, Stop: 3031926181, Duration: 578
+<ESC>[0m
+[00:00:35.859,985] <ESC>[0m<inf> dms_client: Return code is 200<ESC>[0m
+[00:00:36.367,248] <ESC>[0m<inf> dms_client: DMSC status OK
+<ESC>[0m
+[00:00:36.367,279] <ESC>[0m<inf> event_manager: e: dmsc_event<ESC>[0m
+[00:00:36.367,309] <ESC>[0m<inf> sm: Received message name: 'dmsc_event', dst: 'dmsc'<ESC>[0m
+[00:00:36.367,309] <ESC>[0m<inf> sm: [dmsc] Exiting state busy<ESC>[0m
+[00:00:36.367,309] <ESC>[0m<inf> sm: [dmsc] Entering state idle<ESC>[0m
+[00:00:36.367,340] <ESC>[0m<inf> dms_client: DMS client resync scheduled in 1 s
+<ESC>[0m
+>>> AT+CFUN=4<CR>
+[00:00:37.367,248] <ESC>[0m<inf> event_manager: e: dmsc_event<ESC>[0m
+[00:00:37.367,279] <ESC>[0m<inf> sm: Received message name: 'dmsc_event', dst: 'dmsc'<ESC>[0m
+[00:00:37.367,309] <ESC>[0m<inf> sm: [dmsc] Exiting state idle<ESC>[0m
+[00:00:37.367,309] <ESC>[0m<inf> sm: [dmsc] Exiting state active<ESC>[0m
+[00:00:37.367,340] <ESC>[0m<inf> sm: [dmsc] Entering state disconnect<ESC>[0m
+[00:00:37.370,239] <ESC>[0m<inf> dmsc_uhttp_interface: Connection closed callback<ESC>[0m
+[00:00:37.370,269] <ESC>[0m<inf> dms_client: DMSC status OK
+<ESC>[0m
+[00:00:37.370,300] <ESC>[0m<inf> event_manager: e: dmsc_event<ESC>[0m
+[00:00:37.370,330] <ESC>[0m<inf> sm: Received message name: 'dmsc_event', dst: 'dmsc'<ESC>[0m
+[00:00:37.370,330] <ESC>[0m<inf> sm: [dmsc] Exiting state disconnect<ESC>[0m
+[00:00:37.370,391] <ESC>[0m<inf> sm: [dmsc] Entering state sleep<ESC>[0m
+[00:00:37.370,391] <ESC>[0m<inf> dms_client: DMS resync disabled, going to sleep<ESC>[0m
+[00:00:37.370,452] <ESC>[0m<inf> event_manager: e: net_man_event<ESC>[0m
+[00:00:37.370,452] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'net_man'<ESC>[0m
+[00:00:37.370,452] <ESC>[0m<inf> sm: [net_man] Exiting state connected<ESC>[0m
+[00:00:37.370,483] <ESC>[0m<inf> sm: [net_man] Entering state disconnecting<ESC>[0m
+[00:00:37.370,544] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'ntp'<ESC>[0m
+[00:00:37.370,574] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'dmsc'<ESC>[0m
+<CR>
+>>> AT+CFUN=0<CR>
+<CR>
+[00:00:38.890,716] <ESC>[0m<inf> event_manager: e: net_man_event<ESC>[0m
+[00:00:38.890,747] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'net_man'<ESC>[0m
+[00:00:38.890,747] <ESC>[0m<inf> sm: [net_man] Exiting state disconnecting<ESC>[0m
+[00:00:38.890,777] <ESC>[0m<inf> sm: [net_man] Entering state powering_off<ESC>[0m
+[00:00:38.890,808] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'ntp'<ESC>[0m
+[00:00:38.890,838] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'dmsc'<ESC>[0m
+[00:00:39.484,466] <ESC>[0m<inf> event_manager: e: net_man_event<ESC>[0m
+[00:00:39.484,497] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'net_man'<ESC>[0m
+[00:00:39.484,497] <ESC>[0m<inf> sm: [net_man] Exiting state powering_off<ESC>[0m
+[00:00:39.484,527] <ESC>[0m<inf> sm: [net_man] Entering state powered_off<ESC>[0m
+[00:00:39.484,558] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'ntp'<ESC>[0m
+[00:00:39.484,588] <ESC>[0m<inf> sm: Received message name: 'net_man_event', dst: 'dmsc'<ESC>[0m

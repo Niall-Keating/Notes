@@ -38,7 +38,8 @@ type: project notes
    ]
 }
 ```
-- The files uploaded to the `session` endoint are saved to an internal `/media` folder on the cloud platform, for the Teva SmartInhaler testing that Pawel J has been condu 
+- The files uploaded to the `session` endoint are saved to an internal `/media` folder on the cloud platform, for the Teva SmartInhaler testing that Pawel J has been conducting recently, this can be found at: `/var/www/firmwave-staging/media` 
+- A log file showing this transaction was sent by Pawel and is available here: [[teva]]
 
 
 ## My Ideas
