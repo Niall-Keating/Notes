@@ -18,6 +18,11 @@ tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, R
 	- BLE
 - Notes:
 	- [FCC Documentation](https://fccid.io/TV7924BT5LR9)
+	- Solid(Cast?) metal base and a plastic top
+		- 1 Screw and 2 plastic clips for easily taking off the cover
+	- Passively cooled
+	- Dual-chain Wi-Fi Antennas 
+		- Note 
 	- Uses a PCI-E Connector for optional Lora daughter board
 	- Plastic breakoff for access to the GPIO 
 - Photos:
