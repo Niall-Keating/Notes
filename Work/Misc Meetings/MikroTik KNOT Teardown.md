@@ -18,4 +18,9 @@ tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, R
 	- BLE
 - Notes:
 	- [FCC Documentation](https://fccid.io/TV7924BT5LR9)
-	- Uses a PCI-E 
+	- Uses a PCI-E Connector for optional Lora daughter board
+	- Plastic breakoff for access to the GPIO 
+- Photos:
+![[KNOT-1.jpg]]
+
+![[KNOT-2.jpg]]
