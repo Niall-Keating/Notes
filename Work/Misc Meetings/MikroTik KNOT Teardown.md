@@ -11,7 +11,7 @@ tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, R
 ## Notes
 - Product: [Mikrotik KNOT](https://mikrotik.com/product/knot)
 - More Docs:
-	- - [FCC Documentation](https://fccid.io/TV7924BT5LR9)
+	- [FCC Documentation](https://fccid.io/TV7924BT5LR9)
 - Interfaces:
 	- x2 Ethernet(PoE In & Out)
 	- WiFi
@@ -30,6 +30,9 @@ tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, R
 - PCBA is thermally connected to the base with stand-offs and Thermal Grease 
 - Good set of indicator LED's and light tunnels 
 - Reset Button
+- What our gateway has that is better?
+	- Backup Battery(Could be smaller)
+	- Terminal blocks
 
 ## Photos
 ![[KNOT-1.jpg]]
