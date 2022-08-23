@@ -11,9 +11,11 @@ tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, R
 ## Notes
 - Product: [Mikrotik KNOT](https://mikrotik.com/product/knot)
 - Interfaces:
-	- x2 Ethernet
+	- x2 Ethernet(PoE In & Out)
 	- WiFi
 	- CAT-M(BG77)
 	- LORA(Optional)
+	- BLE
 - Notes:
-	- FFC
+	- [FCC Documentation](https://fccid.io/TV7924BT5LR9)
+	- 
