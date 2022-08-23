@@ -14,4 +14,5 @@ Cloud Planning
 
 
 ### Notes:
-- Plan to extend the existing DMS functionality 
+- Plan to extend the existing DMS functionality on the `session` endpoint
+	- Save the samples to tb similar to `updates` endpoint
