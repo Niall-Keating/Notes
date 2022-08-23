@@ -8,7 +8,6 @@ Any actions(ToDo's) that you need to take in the future
 - [ ] Email Ken about smart doing silo board ⏳ 2022-08-24 
 - [ ] Discuss internal projects with Derek
 - [ ] Discuss Dmitri BSCI / SmartFlow with Derek
-- [ ] Organise HB1.0 handover with Rob/Marco 🔽 
+- [ ] Organise HB1.0 handover with Rob/Marco 🔽 🛫 2022-08-29 
 - [ ] Prune support backlogs
 - [ ] 
-
