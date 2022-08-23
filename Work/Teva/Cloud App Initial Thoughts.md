@@ -49,7 +49,7 @@ type: project notes
 
 ## Architecture
 
-![[Drawing 2022-08-22 22.11.05.excalidraw.png]]
+![[test_app_arch.excalidraw.png]]
 
 1. Cloud App
 2. Laptop running test planner
