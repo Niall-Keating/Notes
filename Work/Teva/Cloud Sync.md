@@ -18,11 +18,10 @@ Cloud Planning
 - See background notes in [[Cloud App Initial Thoughts]]
 - Plan to extend the existing DMS functionality on the `session` endpoint
 	- Save the samples to tb similar to `updates` endpoint
-		- bat_mv
-		- pres_min
-		- duration_ms
+		- `bat_mv`
+		- `pres_min`
+		- `duration_ms`
 	- All of the above values should use the single `epoch` uploaded for the collection of samples
 		- See sample payload in ![[Cloud App Initial Thoughts#Sample JSON]]
-		- sadsd
-- Once in TB we can write a script to poll TB/DMS API from test laptop
-	- 
+		- 
+- Once in TB we can write a script to poll TB/DMS API from test laptop and generate a table/report from there
