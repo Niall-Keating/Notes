@@ -1,7 +1,7 @@
 ---
 date: 23-08-2022
 type: project notes
-tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, RoterOS]
+tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, RoterOS, PCI-E]
 ---
 
 ## Attendees
@@ -18,4 +18,4 @@ tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, R
 	- BLE
 - Notes:
 	- [FCC Documentation](https://fccid.io/TV7924BT5LR9)
-	- 
+	- Uses a PCI-E 
