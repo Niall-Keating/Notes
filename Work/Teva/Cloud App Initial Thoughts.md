@@ -21,8 +21,10 @@ type: project notes
  - Looks like was a MQTT client at one stage
  - Now using file upload endpoint instead?
  - links:
- - The ``` ```
- - 
+ - The `/v1/<IMEI>/session/ ` endpoint us used to upload a JSON file of the following format:
+``` JSON
+
+```
 
 ## My Ideas
 - Python webserver that runs locally, connects to the FTDI over web serial(if we don't need direct GPIO)
