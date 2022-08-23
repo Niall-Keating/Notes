@@ -32,3 +32,11 @@ tags: [genset, ig20, ig10, industrial-gateway, mikrotik, KNOT, Quectel, CAT-M, R
 ![[KNOT-1.jpg]]
 
 ![[KNOT-2.jpg]]
+
+![[KNOT-3.jpg]]
+
+![[KNOT-4.jpg]]
+
+![[KNOT-5.jpg]]
+
+!
