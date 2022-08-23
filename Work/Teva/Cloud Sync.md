@@ -18,7 +18,8 @@ Cloud Planning
 - Plan to extend the existing DMS functionality on the `session` endpoint
 	- Save the samples to tb similar to `updates` endpoint
 		- bat_mv
-		- presure
-		- duration
+		- pres_min
+		- duration_ms
+	- All of the above 
 - Once in TB we can write a script to poll TB/DMS API from test laptop
 	- 
