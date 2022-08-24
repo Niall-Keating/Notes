@@ -25,6 +25,8 @@ FT232H Dev Board ^GcFYmQ1h
 
 USB ^vCUsjrJl
 
+LTE-M Network ^zAapjVQl
+
 %%
 # Drawing
 ```json
@@ -2997,26 +2999,28 @@ USB ^vCUsjrJl
 		{
 			"id": "LDagolQ6W1CQOCKzuTdMU",
 			"type": "arrow",
-			"x": 984.1089446515232,
-			"y": 456.2789117739728,
-			"width": 278.64944122160296,
-			"height": 234.65216102871796,
+			"x": 1011.3453561994995,
+			"y": 475.13488899949493,
+			"width": 217.89129238380974,
+			"height": 222.08150954503662,
 			"angle": 0,
-			"strokeColor": "#000000",
+			"strokeColor": "#495057",
 			"backgroundColor": "black",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
+			"groupIds": [
+				"gD2gbTVWeNO-X8kk8P1QR"
+			],
 			"strokeSharpness": "round",
 			"seed": 1153903937,
-			"version": 321,
-			"versionNonce": 458797249,
+			"version": 429,
+			"versionNonce": 138267585,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661360166436,
+			"updated": 1661360272029,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3025,24 +3029,24 @@ USB ^vCUsjrJl
 					0
 				],
 				[
-					73.32880032147432,
-					-46.092388773498215
+					46.09238877349799,
+					-37.711954451043994
 				],
 				[
-					81.70923464392854,
-					-115.23097193374542
-				],
-				[
-					155.03803496540286,
+					54.47282309595221,
 					-106.8505376112912
 				],
 				[
-					175.98912077153864,
-					-182.2744465133792
+					127.80162341742653,
+					-98.47010328883698
 				],
 				[
-					278.64944122160296,
-					-234.65216102871796
+					148.7527092235623,
+					-173.89401219092497
+				],
+				[
+					217.89129238380974,
+					-222.08150954503662
 				]
 			],
 			"lastCommittedPoint": [
@@ -3053,6 +3057,43 @@ USB ^vCUsjrJl
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "zAapjVQl",
+			"type": "text",
+			"x": 925.4459043943432,
+			"y": 289.43109396979685,
+			"width": 274,
+			"height": 45,
+			"angle": 5.5658021522272705,
+			"strokeColor": "#495057",
+			"backgroundColor": "black",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [
+				"gD2gbTVWeNO-X8kk8P1QR"
+			],
+			"strokeSharpness": "sharp",
+			"seed": 463574543,
+			"version": 95,
+			"versionNonce": 2082901199,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661360272029,
+			"link": null,
+			"locked": false,
+			"text": "LTE-M Network",
+			"rawText": "LTE-M Network",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32,
+			"containerId": null,
+			"originalText": "LTE-M Network"
 		},
 		{
 			"id": "j3AFg1Jfn9G3JdDZaMf1Z",
@@ -3158,12 +3199,47 @@ USB ^vCUsjrJl
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "AfMomoS4HK_8L_WaTRtXE",
+			"type": "text",
+			"x": 935.9214472974115,
+			"y": 255.90935667997996,
+			"width": 19,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "black",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1097265313,
+			"version": 3,
+			"versionNonce": 794965121,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1661360197882,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32,
+			"containerId": null,
+			"originalText": ""
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
+		"currentItemStrokeColor": "#495057",
 		"currentItemBackgroundColor": "black",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
