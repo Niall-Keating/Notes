@@ -8,3 +8,6 @@ Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva d
 
 ## Architecture 
 ![[test_app_v2_arch.excalidraw.png]]
+
+## Test App Design
+![[test_app_design.excalidraw]]
