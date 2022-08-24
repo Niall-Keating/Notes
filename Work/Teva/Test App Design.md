@@ -1,1 +1,1 @@
-Based on [[Cloud Sync]] we decided not to develop a new 
+Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva device to upload it's data to as a lot of the functionality is already build into the DMS. 
