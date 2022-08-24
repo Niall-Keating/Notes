@@ -16,8 +16,10 @@
 		- Export option for csv, excel etc
 		- NOtes section to store notes on device?
 		- API to pull out from dms instance
-			- or possibly an option to push to an ins
-- owners
+			- or possibly an option to push to an instance
+- 
+- owners for each sections, 
+	- i.e factor
 
 
 ## Things we need
@@ -26,4 +28,4 @@
 - Platform IO
 - Linux image
 - single IDE
-- 
+- place to store binaries
