@@ -4,3 +4,7 @@ Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva d
 ## DMS changes required
 1. Modify the `/<IMEI>/session` view to save the sample data uploaded by the teva device to thingsboard
 2. 
+
+
+## Architecture 
+![[test_app_v2_arch.excalidraw.png]]
