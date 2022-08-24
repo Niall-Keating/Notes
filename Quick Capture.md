@@ -5,7 +5,11 @@
 
 ## Thoughts on overall process in engineering
 - As it stands we manufacture hardware in a factory in Shannon and it is often a  nightmare for many reasons
-- EVT ssoftware is linux and requires too much configuration, should be able to just have a QR or a single button to click that starts the test and knows everything
+	- EVT ssoftware is linux and requires too much configuration, should be able to just have a QR or a single button to click that starts the test and knows everything
+	- everything is stored to a csv file
+		- failed devices aren't populated
+	- Lots of manual processes
+	- 
 - We need something better than a CSV file
 	- I think mongodb
 		- We can have required keys, ie SN, manu date etc
@@ -17,7 +21,7 @@
 		- NOtes section to store notes on device?
 		- API to pull out from dms instance
 			- or possibly an option to push to an instance
-- 
+- Binaries when built on ci/cd should be pushed to bintray or something, builds are tagged and an api on cloud that 
 - owners for each sections, 
 	- i.e. factory sw is owned by:
 		- Operations
@@ -28,6 +32,7 @@
 		- ENg Manager
 		- SW Team lead
 		- SW Team
+		- devops/infrastructure
 	- Firmware is owned by
 		- PMO
 		- ENgineering Manager
@@ -36,7 +41,8 @@
 	- CI/CD Infrastreuctr
 		- SW TEam Lad
 		- Validation Team
-		- De
+		- Devops
+		- 
 
 
 ## Things we need
@@ -46,3 +52,4 @@
 - Linux image
 - single IDE
 - place to store binaries
+- docker
