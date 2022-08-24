@@ -10,4 +10,6 @@ Any actions(ToDo's) that you need to take in the future
 - [ ] Discuss Dmitri BSCI / SmartFlow with Derek
 - [ ] Organise HB1.0 handover with Rob/Marco 🔽 🛫 2022-08-29 
 - [ ] Prune support backlogs
-- [ ] 
+- [ ] Add multiple COMMS to teva arch ⏳ 2022-08-25 
+- [ ] Spin up G3 UDP server and pull files off ⏳ 2022-08-25 
+- [ ] Remove unnecessary security groups on AWS 📅 2022-08-26 
