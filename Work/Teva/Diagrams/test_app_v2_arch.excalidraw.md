@@ -1068,8 +1068,8 @@ FT232H Dev Board ^GcFYmQ1h
 		{
 			"id": "EDrdgoqQ97GcZLRnsZXXz",
 			"type": "rectangle",
-			"x": -506.4472656683679,
-			"y": 883.946885019731,
+			"x": -596.0946790228002,
+			"y": 880.3609884855535,
 			"width": 542,
 			"height": 194,
 			"angle": 0,
@@ -1085,19 +1085,24 @@ FT232H Dev Board ^GcFYmQ1h
 			],
 			"strokeSharpness": "round",
 			"seed": 750173761,
-			"version": 331,
-			"versionNonce": 1246506575,
+			"version": 404,
+			"versionNonce": 542836353,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1661358809377,
+			"boundElements": [
+				{
+					"id": "QOKQs9MqaCOA4T94gsVwg",
+					"type": "arrow"
+				}
+			],
+			"updated": 1661358883343,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "GcFYmQ1h",
 			"type": "text",
-			"x": -402.4472656683679,
-			"y": 955.4468850197311,
+			"x": -492.09467902280016,
+			"y": 951.8609884855537,
 			"width": 355,
 			"height": 45,
 			"angle": 0,
@@ -1113,11 +1118,11 @@ FT232H Dev Board ^GcFYmQ1h
 			],
 			"strokeSharpness": "round",
 			"seed": 1365608783,
-			"version": 247,
-			"versionNonce": 1922032161,
+			"version": 319,
+			"versionNonce": 655920737,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661358809377,
+			"updated": 1661358883344,
 			"link": null,
 			"locked": false,
 			"text": "FT232H Dev Board",
@@ -1135,8 +1140,8 @@ FT232H Dev Board ^GcFYmQ1h
 			"type": "arrow",
 			"x": -980.1207863860242,
 			"y": 660.719365045425,
-			"width": 591.9321033447221,
-			"height": 404.3760885770686,
+			"width": 497.97200153576796,
+			"height": 324.1983093074764,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#ced4da",
@@ -1148,11 +1153,11 @@ FT232H Dev Board ^GcFYmQ1h
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1120020111,
-			"version": 537,
-			"versionNonce": 520978241,
+			"version": 715,
+			"versionNonce": 1805606415,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661358860942,
+			"updated": 1661358883344,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1165,16 +1170,16 @@ FT232H Dev Board ^GcFYmQ1h
 					18.6225830265754
 				],
 				[
-					42.41395486971737,
-					191.54656827334827
+					80.68153875040457,
+					147.15617097175107
 				],
 				[
-					-113.2176318523783,
-					404.3760885770686
+					-42.805277511913914,
+					301.8189637768271
 				],
 				[
-					476.0541024885474,
-					327.2253874669699
+					382.09400067959325,
+					324.1983093074764
 				]
 			],
 			"lastCommittedPoint": [
@@ -1186,7 +1191,11 @@ FT232H Dev Board ^GcFYmQ1h
 				"focus": -0.6451016885606363,
 				"gap": 18.79127881988677
 			},
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "EDrdgoqQ97GcZLRnsZXXz",
+				"focus": -0.19709953177630207,
+				"gap": 1.9321066836307637
+			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
