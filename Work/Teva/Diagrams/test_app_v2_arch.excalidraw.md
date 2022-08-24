@@ -27,7 +27,7 @@ USB ^vCUsjrJl
 
 LTE-M Network ^zAapjVQl
 
-EDGE Insights API ^qAe50G4U
+EDGE Insights Device API ^qAe50G4U
 
 %%
 # Drawing
@@ -2171,8 +2171,8 @@ EDGE Insights API ^qAe50G4U
 			"type": "arrow",
 			"x": -54.16802305764179,
 			"y": 1033.763031288565,
-			"width": 1152.0767648355204,
-			"height": 523.6029758540512,
+			"width": 1158.362090577361,
+			"height": 583.4446267589803,
 			"angle": 0,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
@@ -2184,11 +2184,11 @@ EDGE Insights API ^qAe50G4U
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1620020239,
-			"version": 625,
-			"versionNonce": 393989103,
+			"version": 739,
+			"versionNonce": 1966819073,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661360399635,
+			"updated": 1661360502460,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2197,20 +2197,20 @@ EDGE Insights API ^qAe50G4U
 					0
 				],
 				[
-					301.67508733148907,
-					233.144069192105
+					312.15063023455673,
+					348.37504112585043
 				],
 				[
-					643.8818776792905,
-					474.4989805670755
+					920.4362103202798,
+					583.4446267589803
 				],
 				[
-					1152.0767648355204,
-					523.6029758540512
+					1158.362090577361,
+					464.9399355968717
 				],
 				[
-					1000.3488810785526,
-					366.4767503428859
+					1002.4439896591663,
+					343.4305559561369
 				]
 			],
 			"lastCommittedPoint": [
@@ -2220,8 +2220,8 @@ EDGE Insights API ^qAe50G4U
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "zKVNjInJgxHaZ1x00Iz6b",
-				"focus": -0.32742508377325075,
-				"gap": 4.162579316588904
+				"focus": -0.5327565078737777,
+				"gap": 6.2576878972025725
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -2445,8 +2445,8 @@ EDGE Insights API ^qAe50G4U
 		{
 			"id": "MT93T_SaX-kWUBK8VTwFY",
 			"type": "line",
-			"x": 1457.0854680170928,
-			"y": 218.19942231893543,
+			"x": 1473.8463366620012,
+			"y": 270.5771368342743,
 			"width": 138.26151242428648,
 			"height": 239.44932927284805,
 			"angle": 0,
@@ -2462,11 +2462,11 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"seed": 843154817,
-			"version": 224,
-			"versionNonce": 963609153,
+			"version": 252,
+			"versionNonce": 1173566401,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661360399635,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2488,8 +2488,8 @@ EDGE Insights API ^qAe50G4U
 		{
 			"id": "oEghyaqq6uB9Lwvij3mqx",
 			"type": "line",
-			"x": 1457.8114655570453,
-			"y": 218.95037578077358,
+			"x": 1474.5723342019537,
+			"y": 271.32809029611246,
 			"width": 101.36073521027049,
 			"height": 248.8138201272745,
 			"angle": 0,
@@ -2505,11 +2505,11 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"seed": 336563905,
-			"version": 305,
-			"versionNonce": 2029092431,
+			"version": 333,
+			"versionNonce": 752592079,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661360399635,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2531,8 +2531,8 @@ EDGE Insights API ^qAe50G4U
 		{
 			"id": "8tEufoRhtUYoevflquL5P",
 			"type": "line",
-			"x": 1399.9747823177568,
-			"y": 308.5404364125178,
+			"x": 1416.7356509626652,
+			"y": 360.9181509278567,
 			"width": 97.53867840743806,
 			"height": 1.9314589783651854,
 			"angle": 0,
@@ -2548,11 +2548,11 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"seed": 207217007,
-			"version": 281,
-			"versionNonce": 1739035169,
+			"version": 309,
+			"versionNonce": 1538855841,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661360399635,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2573,8 +2573,8 @@ EDGE Insights API ^qAe50G4U
 		},
 		{
 			"type": "line",
-			"version": 393,
-			"versionNonce": 1978326127,
+			"version": 421,
+			"versionNonce": 650916591,
 			"isDeleted": false,
 			"id": "DTpd_7ocSALoQtVOD-xi_",
 			"fillStyle": "hachure",
@@ -2583,8 +2583,8 @@ EDGE Insights API ^qAe50G4U
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1370.5200328976885,
-			"y": 374.2100416769314,
+			"x": 1387.280901542597,
+			"y": 426.58775619227026,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 150.65380031247855,
@@ -2595,7 +2595,7 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661360399635,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2617,8 +2617,8 @@ EDGE Insights API ^qAe50G4U
 		{
 			"id": "beuTncH6pFCT_hqFMsty5",
 			"type": "line",
-			"x": 1271.5327602564769,
-			"y": 461.1256957033613,
+			"x": 1288.2936289013853,
+			"y": 513.5034102187002,
 			"width": 319.6564609194252,
 			"height": 5.794376935095329,
 			"angle": 0,
@@ -2634,11 +2634,11 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"seed": 2100282031,
-			"version": 203,
-			"versionNonce": 1477617153,
+			"version": 231,
+			"versionNonce": 561510273,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661360399636,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2659,8 +2659,8 @@ EDGE Insights API ^qAe50G4U
 		},
 		{
 			"type": "line",
-			"version": 625,
-			"versionNonce": 1683191439,
+			"version": 653,
+			"versionNonce": 1271266575,
 			"isDeleted": false,
 			"id": "skNaF49yks3acQDbJN_Z3",
 			"fillStyle": "hachure",
@@ -2669,8 +2669,8 @@ EDGE Insights API ^qAe50G4U
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.053765701770564,
-			"x": 1372.9568083108093,
-			"y": 194.6075868595911,
+			"x": 1389.7176769557177,
+			"y": 246.98530137492997,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 92.35829891085274,
@@ -2682,7 +2682,7 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661360399636,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2711,8 +2711,8 @@ EDGE Insights API ^qAe50G4U
 		},
 		{
 			"type": "line",
-			"version": 691,
-			"versionNonce": 1437613537,
+			"version": 719,
+			"versionNonce": 963600225,
 			"isDeleted": false,
 			"id": "IAGoLaxMxaQCNKcma0Pxh",
 			"fillStyle": "hachure",
@@ -2721,8 +2721,8 @@ EDGE Insights API ^qAe50G4U
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.053765701770564,
-			"x": 1335.3711547014886,
-			"y": 197.35155197678068,
+			"x": 1352.132023346397,
+			"y": 249.72926649211956,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 119.8880599605281,
@@ -2734,7 +2734,7 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661360399636,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2763,8 +2763,8 @@ EDGE Insights API ^qAe50G4U
 		},
 		{
 			"type": "line",
-			"version": 707,
-			"versionNonce": 1256443055,
+			"version": 735,
+			"versionNonce": 1598128943,
 			"isDeleted": false,
 			"id": "UjfWsT9KrhYdBQMZSrJ-d",
 			"fillStyle": "hachure",
@@ -2773,8 +2773,8 @@ EDGE Insights API ^qAe50G4U
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.053765701770564,
-			"x": 1314.7809155893556,
-			"y": 195.6361528135065,
+			"x": 1331.541784234264,
+			"y": 248.01386732884538,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 126.99266002312928,
@@ -2786,7 +2786,7 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661360399636,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2815,8 +2815,8 @@ EDGE Insights API ^qAe50G4U
 		},
 		{
 			"type": "line",
-			"version": 716,
-			"versionNonce": 529521089,
+			"version": 744,
+			"versionNonce": 1374604097,
 			"isDeleted": false,
 			"id": "vZYK2swfskPzJG8hgEucw",
 			"fillStyle": "hachure",
@@ -2825,8 +2825,8 @@ EDGE Insights API ^qAe50G4U
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 7.6435446382405505,
-			"x": 1470.1559266485256,
-			"y": 208.0883325928517,
+			"x": 1486.916795293434,
+			"y": 260.4660471081906,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 92.35829891085274,
@@ -2838,7 +2838,7 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661360399636,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2867,8 +2867,8 @@ EDGE Insights API ^qAe50G4U
 		},
 		{
 			"type": "line",
-			"version": 782,
-			"versionNonce": 1162108623,
+			"version": 810,
+			"versionNonce": 564610383,
 			"isDeleted": false,
 			"id": "Xb1AYcm9MKqEFyDudgS8I",
 			"fillStyle": "hachure",
@@ -2877,8 +2877,8 @@ EDGE Insights API ^qAe50G4U
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 7.6435446382405505,
-			"x": 1478.5613115749052,
-			"y": 201.17717122844192,
+			"x": 1495.3221802198136,
+			"y": 253.5548857437808,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 119.8880599605281,
@@ -2890,7 +2890,7 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661360399636,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2919,8 +2919,8 @@ EDGE Insights API ^qAe50G4U
 		},
 		{
 			"type": "line",
-			"version": 798,
-			"versionNonce": 1724971425,
+			"version": 826,
+			"versionNonce": 592821025,
 			"isDeleted": false,
 			"id": "xdxSK63EO8m3f0ArSd-mz",
 			"fillStyle": "hachure",
@@ -2929,8 +2929,8 @@ EDGE Insights API ^qAe50G4U
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 7.6435446382405505,
-			"x": 1490.3797852915645,
-			"y": 200.58329780313016,
+			"x": 1507.140653936473,
+			"y": 252.96101231846905,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 126.99266002312928,
@@ -2942,7 +2942,7 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661360399636,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2972,8 +2972,8 @@ EDGE Insights API ^qAe50G4U
 		{
 			"id": "-spvYebTwR4yB2DsBeRu7",
 			"type": "ellipse",
-			"x": 1431.8438554607806,
-			"y": 182.02987332960333,
+			"x": 1448.604724105689,
+			"y": 234.4075878449422,
 			"width": 45.38928599157998,
 			"height": 39.59490905648465,
 			"angle": 0,
@@ -2989,22 +2989,22 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "sharp",
 			"seed": 977142625,
-			"version": 187,
-			"versionNonce": 1712172271,
+			"version": 215,
+			"versionNonce": 844088175,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661360399636,
+			"updated": 1661360521549,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "LDagolQ6W1CQOCKzuTdMU",
 			"type": "arrow",
-			"x": 1170.5736083261297,
-			"y": 871.1104107354568,
-			"width": 217.89129238380974,
-			"height": 222.08150954503662,
-			"angle": 0,
+			"x": 1174.7958010640682,
+			"y": 866.6182048817037,
+			"width": 222.95937472125453,
+			"height": 227.24705500435536,
+			"angle": 6.047251894590411,
 			"strokeColor": "#495057",
 			"backgroundColor": "black",
 			"fillStyle": "solid",
@@ -3017,11 +3017,11 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "round",
 			"seed": 1153903937,
-			"version": 522,
-			"versionNonce": 212016513,
+			"version": 563,
+			"versionNonce": 1688718433,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661360399636,
+			"updated": 1661360525750,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3030,24 +3030,24 @@ EDGE Insights API ^qAe50G4U
 					0
 				],
 				[
-					46.09238877349799,
-					-37.711954451043994
+					47.164483114111306,
+					-38.58912254790944
 				],
 				[
-					54.47282309595221,
-					-106.8505376112912
+					55.739843680313406,
+					-109.33584721907663
 				],
 				[
-					127.80162341742653,
-					-98.47010328883698
+					130.77424863458165,
+					-100.76048665287453
 				],
 				[
-					148.7527092235623,
-					-173.89401219092497
+					152.21265005008712,
+					-177.9387317486934
 				],
 				[
-					217.89129238380974,
-					-222.08150954503662
+					222.95937472125453,
+					-227.24705500435536
 				]
 			],
 			"lastCommittedPoint": [
@@ -3062,11 +3062,11 @@ EDGE Insights API ^qAe50G4U
 		{
 			"id": "zAapjVQl",
 			"type": "text",
-			"x": 1084.6741565209734,
-			"y": 685.4066157057587,
-			"width": 274,
-			"height": 45,
-			"angle": 5.5658021522272705,
+			"x": 1076.1666867399251,
+			"y": 692.0066671646774,
+			"width": 280.373153076782,
+			"height": 46.046685724289006,
+			"angle": 5.329868739638094,
 			"strokeColor": "#495057",
 			"backgroundColor": "black",
 			"fillStyle": "solid",
@@ -3079,46 +3079,46 @@ EDGE Insights API ^qAe50G4U
 			],
 			"strokeSharpness": "sharp",
 			"seed": 463574543,
-			"version": 188,
-			"versionNonce": 1489516303,
+			"version": 229,
+			"versionNonce": 1943168559,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661360399636,
+			"updated": 1661360525750,
 			"link": null,
 			"locked": false,
 			"text": "LTE-M Network",
 			"rawText": "LTE-M Network",
-			"fontSize": 36,
+			"fontSize": 36.83734857943121,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 32,
+			"baseline": 32.046685724289006,
 			"containerId": null,
 			"originalText": "LTE-M Network"
 		},
 		{
 			"id": "8Mfotosuu8BODrIW_n7N_",
 			"type": "arrow",
-			"x": 1288.1561806766572,
-			"y": 452.5671577039931,
-			"width": 794.0461520525373,
-			"height": 458.8287791543686,
+			"x": 952.9388077784884,
+			"y": 1032.9122345339479,
+			"width": 737.4782203759714,
+			"height": 1039.1738559843234,
 			"angle": 0,
 			"strokeColor": "#e67700",
 			"backgroundColor": "black",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
-			"strokeStyle": "solid",
+			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 268713327,
-			"version": 152,
-			"versionNonce": 832671649,
+			"version": 380,
+			"versionNonce": 2102511233,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661360408534,
+			"updated": 1661360460937,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3127,20 +3127,20 @@ EDGE Insights API ^qAe50G4U
 					0
 				],
 				[
-					-85.89945180515542,
-					-188.55977225521997
+					257.69835541546763,
+					-469.30432205743637
 				],
 				[
-					-205.32064090012818,
-					-358.26356728491794
+					278.64944122160296,
+					-905.0869068250558
 				],
 				[
-					-647.3885514095884,
-					-456.73367057375503
+					-312.1711785114196,
+					-1037.0787474037097
 				],
 				[
-					-794.0461520525373,
-					-458.8287791543686
+					-458.8287791543685,
+					-1039.1738559843234
 				]
 			],
 			"lastCommittedPoint": [
@@ -3154,8 +3154,8 @@ EDGE Insights API ^qAe50G4U
 		},
 		{
 			"type": "text",
-			"version": 194,
-			"versionNonce": 1424008257,
+			"version": 387,
+			"versionNonce": 1208911311,
 			"isDeleted": false,
 			"id": "qAe50G4U",
 			"fillStyle": "hachure",
@@ -3163,270 +3163,29 @@ EDGE Insights API ^qAe50G4U
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 5.539085962151744,
-			"x": -477.3382950406885,
-			"y": 175.27369370791226,
+			"angle": 0.17215543711676062,
+			"x": 737.6485153856621,
+			"y": -15.336084816607851,
 			"strokeColor": "#e67700",
 			"backgroundColor": "#868e96",
-			"width": 271,
+			"width": 373,
 			"height": 35,
 			"seed": 493535503,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661360412747,
+			"updated": 1661360451887,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "EDGE Insights API",
-			"rawText": "EDGE Insights API",
+			"text": "EDGE Insights Device API",
+			"rawText": "EDGE Insights Device API",
 			"baseline": 25,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "EDGE Insights API"
-		},
-		{
-			"id": "j3AFg1Jfn9G3JdDZaMf1Z",
-			"type": "arrow",
-			"x": 827.9478431269697,
-			"y": -193.06226069847241,
-			"width": 205.77264337130055,
-			"height": 347.5889246136834,
-			"angle": 1.099267245346268,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 975146223,
-			"version": 616,
-			"versionNonce": 541443425,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661360399636,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-79.25027481192001,
-					-98.71525459028601
-				],
-				[
-					-33.36853676291366,
-					-201.6015762759364
-				],
-				[
-					-119.57059006710688,
-					-212.7244218635742
-				],
-				[
-					-98.71525459028612,
-					-275.2904282940372
-				],
-				[
-					-158.50054962383956,
-					-325.34323343840765
-				],
-				[
-					-205.77264337130055,
-					-347.5889246136834
-				]
-			],
-			"lastCommittedPoint": [
-				-205.77264337130055,
-				-347.5889246136834
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "6kJIx-B6h4Wf3X1X1BIAg",
-			"type": "arrow",
-			"x": 969.4431845872284,
-			"y": 498.1810833862439,
-			"width": 205.32064090012818,
-			"height": 131.99184057865386,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "black",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1480340879,
-			"version": 24,
-			"versionNonce": 1139572015,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661360399636,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					205.32064090012818,
-					-131.99184057865386
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "AfMomoS4HK_8L_WaTRtXE",
-			"type": "text",
-			"x": 935.9214472974115,
-			"y": 255.90935667997996,
-			"width": 19,
-			"height": 45,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "black",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 1097265313,
-			"version": 4,
-			"versionNonce": 487092545,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661360399636,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 36,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 32,
-			"containerId": null,
-			"originalText": ""
-		},
-		{
-			"id": "JJMy6eVCZKLe94GoMyOSa",
-			"type": "arrow",
-			"x": 1276.4469720031377,
-			"y": 460.46912893520016,
-			"width": 1483.336875074397,
-			"height": 741.6684375371985,
-			"angle": 0,
-			"strokeColor": "#e67700",
-			"backgroundColor": "black",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 477764335,
-			"version": 254,
-			"versionNonce": 1793261391,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661360399636,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					347.7880243818504,
-					192.74998941644685
-				],
-				[
-					697.6711573443142,
-					25.141302967362435
-				],
-				[
-					534.2526880564567,
-					-400.16573889718916
-				],
-				[
-					-546.8233395401376,
-					-548.9184481207517
-				],
-				[
-					-785.6657177300829,
-					-509.11138508909403
-				]
-			],
-			"lastCommittedPoint": [
-				-1068.5053761129132,
-				-515.3967108309346
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "TzuucdKg9l49Mka-nUDFT",
-			"type": "arrow",
-			"x": 1283.9659635154303,
-			"y": 458.85248344583374,
-			"width": 182.2744465133792,
-			"height": 333.1222643175553,
-			"angle": 0,
-			"strokeColor": "#e67700",
-			"backgroundColor": "black",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1766891425,
-			"version": 32,
-			"versionNonce": 1749721377,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661360399636,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-182.2744465133792,
-					-333.1222643175553
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"originalText": "EDGE Insights Device API"
 		}
 	],
 	"appState": {
@@ -3436,7 +3195,7 @@ EDGE Insights API ^qAe50G4U
 		"currentItemBackgroundColor": "black",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
-		"currentItemStrokeStyle": "solid",
+		"currentItemStrokeStyle": "dashed",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
