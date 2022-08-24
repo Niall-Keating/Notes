@@ -13,7 +13,7 @@
 		- go to instance
 		- creare a configuration for a device if it doesn't exist
 		- use the above conf file and csv to provision the batch of devices
-		- 
+	- There is no dashboard for the factory to use, TB is not good enough
 - We need something better than a CSV file
 	- I think mongodb
 		- We can have required keys, ie SN, manu date etc
@@ -25,6 +25,7 @@
 		- NOtes section to store notes on device?
 		- API to pull out from dms instance
 			- or possibly an option to push to an instance
+	- The portal should also configure the device with where it points to?
 - Binaries when built on ci/cd should be pushed to bintray or something, builds are tagged and an api on cloud that auto discovers only builds it can use with correct urls etc
 - owners for each sections, 
 	- i.e. factory sw is owned by:
@@ -59,4 +60,4 @@
 - docker
 - aws monitoring on grafana/prometheus
 - APN list file that matches IMSI prefix... common across all devices
-- 
+- doxygen
