@@ -1,1 +1,1 @@
-Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva device to upload it's data to as a lot of the functionality is already build into the DMS. 
+Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva device to upload it's data to as a lot of the functionality is already build into the DMS. In order to get the functionality that the hardware guys are looking for, we will need to extend the functionality inside of the session endpoint  
