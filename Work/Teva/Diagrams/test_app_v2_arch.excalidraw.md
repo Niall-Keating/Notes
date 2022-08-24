@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+Vi ^aMRCnca1
+
 %%
 # Drawing
 ```json
@@ -342,6 +344,67 @@ tags: [excalidraw]
 					-285.0089193558746
 				]
 			]
+		},
+		{
+			"id": "oG4Siqdql4fOXuIsAv9nF",
+			"type": "rectangle",
+			"x": -157.25,
+			"y": 110.0703125,
+			"width": 489,
+			"height": 37,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 323893153,
+			"version": 154,
+			"versionNonce": 733455169,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661357803820,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "aMRCnca1",
+			"type": "text",
+			"x": 19.75,
+			"y": 118.0703125,
+			"width": 16,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2147288705,
+			"version": 39,
+			"versionNonce": 495355649,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661357805703,
+			"link": null,
+			"locked": false,
+			"text": "Vi",
+			"rawText": "Vi",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Vi"
 		}
 	],
 	"appState": {
@@ -357,7 +420,7 @@ tags: [excalidraw]
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
-		"currentItemStrokeSharpness": "sharp",
+		"currentItemStrokeSharpness": "round",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemLinearStrokeSharpness": "round",
