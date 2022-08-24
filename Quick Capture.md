@@ -9,7 +9,11 @@
 	- everything is stored to a csv file
 		- failed devices aren't populated
 	- Lots of manual processes
-	- 
+		- I have to copy out public keys and imei's and paste into new file
+		- go to instance
+		- creare a configuration for a device if it doesn't exist
+		- use the above conf file and csv to provision the batch of devices
+		- 
 - We need something better than a CSV file
 	- I think mongodb
 		- We can have required keys, ie SN, manu date etc
@@ -21,7 +25,7 @@
 		- NOtes section to store notes on device?
 		- API to pull out from dms instance
 			- or possibly an option to push to an instance
-- Binaries when built on ci/cd should be pushed to bintray or something, builds are tagged and an api on cloud that 
+- Binaries when built on ci/cd should be pushed to bintray or something, builds are tagged and an api on cloud that auto discovers only builds it can use with correct urls etc
 - owners for each sections, 
 	- i.e. factory sw is owned by:
 		- Operations
@@ -53,3 +57,6 @@
 - single IDE
 - place to store binaries
 - docker
+- aws monitoring on grafana/prometheus
+- APN list file that matches IMSI prefix... common across all devices
+- 
