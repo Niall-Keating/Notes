@@ -13,3 +13,4 @@ Any actions(ToDo's) that you need to take in the future
 - [ ] Add multiple COMMS to teva arch ⏳ 2022-08-25 
 - [ ] Spin up G3 UDP server and pull files off ⏳ 2022-08-25 
 - [ ] Remove unnecessary security groups on AWS 📅 2022-08-26 
+
