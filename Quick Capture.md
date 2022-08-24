@@ -19,7 +19,24 @@
 			- or possibly an option to push to an instance
 - 
 - owners for each sections, 
-	- i.e factor
+	- i.e. factory sw is owned by:
+		- Operations
+		- Engineering Manager
+		- HW Lead
+		- SW LEad
+	- cloud software is owned by
+		- ENg Manager
+		- SW Team lead
+		- SW Team
+	- Firmware is owned by
+		- PMO
+		- ENgineering Manager
+		- SW Team Lead(s)
+		- Firmware team
+	- CI/CD Infrastreuctr
+		- SW TEam Lad
+		- Validation Team
+		- De
 
 
 ## Things we need
