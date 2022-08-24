@@ -48,7 +48,17 @@
 		- Validation Team
 		- Devops
 		- 
-
+- Cloud changes
+	- Need to move jenkins from digitalovean to aws
+	- potentially move firmwave domain to aws?
+	- Docker containers for everything? 
+		- Use docker hub or aws ecr
+	- portainer?
+		- edge client?
+	- Move to python 3
+	- move to django 3 or 4
+	- start to spin out the apps in the django framework we have
+	- Fergal wants a cloud test platform...
 
 ## Things we need
 - Branching strategy
