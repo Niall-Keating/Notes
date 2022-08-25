@@ -16,3 +16,6 @@ Any actions(ToDo's) that you need to take in the future
 - [ ] BLE units investigfation [ticket](https://taoglas.atlassian.net/browse/IPES-40), ⏳ 2022-08-26 
 - [ ] Take a look at IPES-22 ⏳ 2022-08-29 
 - [ ] TIcket for 38 devices for review ⏳ 2022-08-26 
+- [ ] Lvlogics: update [parent task](https://taoglas.atlassian.net/browse/ISS-4) for cloud update  ⏳ 2022-08-26 
+	- [ ] Review [plan](https://taoglas.atlassian.net/jira/software/c/projects/ISS/pages)
+	- [ ] 
