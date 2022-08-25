@@ -14,3 +14,4 @@ Any actions(ToDo's) that you need to take in the future
 - [ ] Spin up G3 UDP server and pull files off ⏳ 2022-08-25 
 - [ ] Remove unnecessary security groups on AWS 📅 2022-08-26 
 - [ ] BLE units investigfation [ticket](https://taoglas.atlassian.net/browse/IPES-40), ⏳ 2022-08-26 
+- [ ] Take a look at IPES-22 ⏳ 2022-08-29 
