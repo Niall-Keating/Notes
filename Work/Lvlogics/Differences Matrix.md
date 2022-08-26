@@ -8,7 +8,7 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 # Cloud Differences Matrix
 This page is to develop a matrix/table that highlights the differences between [EDGE Insights] master and the DMS running lvlogics.firmwave.com. This table is based on the information gathered in [[Cloud Upgrade Planning]].
 
-## Differences between Lvlogics and Master Codebase(Apps)
+## Differences between Lvlogics and Master Codebase(Matrix)
 
 | App                            | Available on lvlogics? | Available on Master |             Models Notes             |
 |:------------------------------ |:----------------------:|:-------------------:|:------------------------------------:|
@@ -19,7 +19,7 @@ This page is to develop a matrix/table that highlights the differences between [
 | History                        |           X            |          X          |            No Differences            |
 | Sites                          |           X            |          X          |            No Differences            |
 | Horseware                      |           O            |          X          | Not Present on lvlogics.firmwave.com |
-| Authentication & Authorization |           X            |          X          |            No Differences            |
+| Authentication & Authorization |           X            |          X          |         Missing: Permissions         |
 | Devices                        |           X            |          X          |       Differences listed below       |
 | Rules                          |           X            |          X          |             Differences              |
 | Sim Card                       |           O            |          X          | Not Present on lvlogics.firmwave.com |
@@ -27,31 +27,6 @@ This page is to develop a matrix/table that highlights the differences between [
 | Sim Manager D                  |           O            |          X          | Not Present on lvlogics.firmwave.com |
 | Subscriptions                  |           O            |          X          | Not Present on lvlogics.firmwave.com |
 
-
-Alarms:
-- No difference
-
-Analytics:
-- No difference
-
-Auth Token:
-- No difference
-
-Files:
-- No difference
-
-History:
-- No difference
-
-Sites:
-- No difference
-
-Horseware:
-- No App
-
-Authentication & Authorization:
-- Missing:
-	- Permissions
 
 Devices:
 - Missing Models:
@@ -75,8 +50,7 @@ Devices:
 	- Silo Strappings
 
 Rules: 
-- Missing Models:
-	- Notification Rule History
+- Missing Models:Notification Rule History
 	- Notification Rule Types
 
 ## Other Differences
