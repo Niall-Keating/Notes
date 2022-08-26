@@ -27,6 +27,9 @@ History:
 Sites:
 - No difference
 
+Horseware:
+- No App
+
 Authentication & Authorization:
 - Missing:
 	- Permissions
@@ -53,28 +56,23 @@ Devices:
 	- Silo Strappings
 
 Rules: 
-- Missing Notification Rule History, Notification Rule Types
+- Missing Models:
+	- Notification Rule History
+	- Notification Rule Types
 
 ## Other Differences
-Sim card is under device on Lvlogics but seperate on master
-
-Sim Manager D
-
-Vodafone APIs
-
-Missing all Subscriptions
-
-Notifications
-
-Plans
-
-Subscriptions
-
-Transactions
-
-Users
-
-Missing Background Images, Brandings, Organisational Units, Roles, Twillio Accounts, Weather
+- Sim card is under device on Lvlogics but seperate on master
+- Sim Manager D
+- Vodafone APIs
+- Missing all Subscriptions
+- Notifications
+- Plans
+- Subscriptions
+- Transactions
+- Users
+- Missing:
+	- Background Images
+	- Brandings, Organisational Units, Roles, Twillio Accounts, Weather
 
 No permissions system, uses groups instead of OU, needs silo strappings (Lazer mappings to percentage full)
 
