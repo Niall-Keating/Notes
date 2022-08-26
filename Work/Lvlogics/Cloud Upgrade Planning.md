@@ -6,7 +6,6 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 ---
 
 # Cloud Upgrade Plan
-
 ## Differences between Lvlogics and Master Codebase(Apps)
 
 Alarms:
@@ -72,7 +71,14 @@ Rules:
 - Users
 - Missing:
 	- Background Images
-	- Brandings, Organisational Units, Roles, Twillio Accounts, Weather
+	- Brandings
+	- Organisational Units
+	- Roles
+	- Twillio Accounts
+	- Weather
 
-No permissions system, uses groups instead of OU, needs silo strappings (Lazer mappings to percentage full)
+## Notes
+- No permissions system
+- uses groups instead of OU 
+- needs silo strappings (Lazer mappings to percentage full)
 
