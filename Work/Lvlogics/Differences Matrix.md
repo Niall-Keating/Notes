@@ -23,6 +23,9 @@ This page is to develop a matrix/table that highlights the differences between [
 | Devices                        |           X            |                     |              |
 | Rules                          |           X            |                     |              |
 | Sim Card                       |           X            |                     |              |
+| Users                          |           O            |                     |              |
+| Sim Manager D                  |           O            |                     |              |
+| Subscriptions                  |           O            |                     |              |
 |                                |                        |                     |              |
 
 
