@@ -20,4 +20,5 @@ Any actions(ToDo's) that you need to take in the future
 	- [ ] Review [plan](https://taoglas.atlassian.net/jira/software/c/projects/ISS/pages)
 	- [ ] Have a doc ready by meeting with Barry 📅 2022-08-31 ⏫ 🔁
 - [ ] Removed x2 iFixIT kits from the IoT Lab on Thursday 25/08/2022, need to order new and reflect in lab plan ⏳ 2022-08-26 
+- [ ] HB3. CEI chat write up⏳ 2022-08-26 ⏫ 
 
