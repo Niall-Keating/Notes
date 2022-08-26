@@ -1,14 +1,14 @@
 # Tasks
 Any actions(ToDo's) that you need to take in the future
 
-## Not Complete
+## Not Complete (Teva)
 ```tasks
 not done
-where project = "Teva"
+path includes Teva
 ```
 
----
 
+## Old FOrmat
 - [ ] Do SmartFlow Drawings 📅 2022-08-24 
 - [x] Schedule CS Engineering Call ⏳ 2022-08-16 ✅ 2022-08-23
 - [x] Email Ken about smart doing silo board ⏳ 2022-08-24 ✅ 2022-08-24
