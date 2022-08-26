@@ -10,6 +10,18 @@ This page is to develop a matrix/table that highlights the differences between [
 
 ## Differences between Lvlogics and Master Codebase(Apps)
 
+| App         | Available on lvlogics? | Available on Master | Models Notes |
+| ----------- | ---------------------- | ------------------- | ------------ |
+| Alarms      |                        |                     |              |
+| Analytics   |                        |                     |              |
+| Auth Tokens |                        |                     |              |
+| Files       |                        |                     |              |
+| History     |                        |                     |              |
+| Sites       |                        |                     |              |
+| Horseware   |                        |                     |              |
+|             |                        |                     |              |
+
+
 Alarms:
 - No difference
 
