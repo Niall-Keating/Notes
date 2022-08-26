@@ -6,7 +6,8 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 ---
 
 # Cloud Differences Matrix
-This page is to develop a matrix/table that highlights the differences between [EDGE Insights] master and the  
+This page is to develop a matrix/table that highlights the differences between [EDGE Insights] master and the DMS running lvlogics.firmwave.com. This table is based on the information gathered in [[Cloud Upgrade Planning]].
+
 ## Differences between Lvlogics and Master Codebase(Apps)
 
 Alarms:
