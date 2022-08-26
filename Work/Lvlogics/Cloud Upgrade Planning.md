@@ -13,23 +13,28 @@ Alarms, Analytics, Auth Token, Files, History, Sites - No difference
 
 Authentication & Authorization - Missing Permissions
 
-Devices - Missing: 
-	BLE Sensors, 
-	Device Alarms, 
-	Device Configuration, 
-	Device Mode State, 
-	Display Modes, 
-	Faults, 
-	Invents, 
-	J1939, 
-	Modbus, 
-	Modbus Configs, 
-	Settings Display Modes, 
-	Telemetry Keys, 
-	URLs, 
-	Webhooks
+sds
 
-Has additional models Network Operator, Sim Card, Silo Strappings
+Devices:
+	- Missing Models
+		BLE Sensors, 
+		Device Alarms, 
+		Device Configuration, 
+		Device Mode State, 
+		Display Modes, 
+		Faults, 
+		Invents, 
+		J1939, 
+		Modbus, 
+		Modbus Configs, 
+		Settings Display Modes, 
+		Telemetry Keys, 
+		URLs, 
+		Webhooks
+	Additional Models:
+		Network Operator
+		Sim Card
+		Silo Strappings
 
 Missing all Horseware
 
