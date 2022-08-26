@@ -19,13 +19,13 @@ This page is to develop a matrix/table that highlights the differences between [
 | History                        |           X            |          X          |            No Differences            |
 | Sites                          |           X            |          X          |            No Differences            |
 | Horseware                      |           O            |          X          | Not Present on lvlogics.firmwave.com |
-| Authentication & Authorization |           X            |          X          |                                      |
-| Devices                        |           X            |          X          |                                      |
-| Rules                          |           X            |          X          |                                      |
-| Sim Card                       |           O            |          X          |                                      |
-| Users                          |           X            |          X          |                                      |
-| Sim Manager D                  |           O            |          X          |                                      |
-| Subscriptions                  |           O            |          X          |                                      |
+| Authentication & Authorization |           X            |          X          |            No Differences            |
+| Devices                        |           X            |          X          |       Differences listed below       |
+| Rules                          |           X            |          X          |             Differences              |
+| Sim Card                       |           O            |          X          | Not Present on lvlogics.firmwave.com |
+| Users                          |           X            |          X          |            No Differences            |
+| Sim Manager D                  |           O            |          X          | Not Present on lvlogics.firmwave.com |
+| Subscriptions                  |           O            |          X          | Not Present on lvlogics.firmwave.com |
 
 
 Alarms:
