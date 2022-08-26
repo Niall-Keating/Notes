@@ -13,44 +13,27 @@ Alarms, Analytics, Auth Token, Files, History, Sites - No difference
 
 Authentication & Authorization - Missing Permissions
 
-sds
 
 Devices:
-- BLE Sensors
-- Device Alarms
-- Device Configuration 
-- Device Mode State,
-- Display Modes
-- Faults
-- Invents
-- J1939
-- Modbus
-- Modbus Configs, 
-- Settings Display Modes,
-- Telemetry Keys,
-- URLs, 
-- Webhooks
-
-
-Missing Models
-		BLE Sensors, 
-		Device Alarms, 
-		Device Configuration, 
-		Device Mode State, 
-		Display Modes, 
-		Faults, 
-		Invents, 
-		J1939, 
-		Modbus, 
-		Modbus Configs, 
-		Settings Display Modes, 
-		Telemetry Keys, 
-		URLs, 
-		Webhooks
-	Additional Models:
-		Network Operator
-		Sim Card
-		Silo Strappings
+- Missing Models:
+	- BLE Sensors
+	- Device Alarms
+	- Device Configuration 
+	- Device Mode State,
+	- Display Modes
+	- Faults
+	- Invents
+	- J1939
+	- Modbus
+	- Modbus Configs
+	- Settings Display Modes
+	- Telemetry Keys
+	- URLs
+	- Webhooks
+- Additional Models:
+	- Network Operator
+	- Sim Card
+	- Silo Strappings
 
 Missing all Horseware
 
