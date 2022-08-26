@@ -10,22 +10,22 @@ This page is to develop a matrix/table that highlights the differences between [
 
 ## Differences between Lvlogics and Master Codebase(Apps)
 
-| App                            | Available on lvlogics? | Available on Master | Models Notes |
-| ------------------------------ |:----------------------:|:-------------------:| ------------ |
-| Alarms                         |           X            |          X          |              |
-| Analytics                      |           X            |          X          |              |
-| Auth Tokens                    |           X            |          X          |              |
-| Files                          |           X            |          X          |              |
-| History                        |           X            |          X          |              |
-| Sites                          |           X            |          X          |              |
-| Horseware                      |           O            |          X          |              |
-| Authentication & Authorization |           X            |          X          |              |
-| Devices                        |           X            |          X          |              |
-| Rules                          |           X            |          X          |              |
-| Sim Card                       |           O            |          X          |              |
-| Users                          |           X            |          X          |              |
-| Sim Manager D                  |           O            |          X          |              |
-| Subscriptions                  |           O            |          X          |              |
+| App                            | Available on lvlogics? | Available on Master |             Models Notes             |
+|:------------------------------ |:----------------------:|:-------------------:|:------------------------------------:|
+| Alarms                         |           X            |          X          |            No Differences            |
+| Analytics                      |           X            |          X          |            No Differences            |
+| Auth Tokens                    |           X            |          X          |            No Differences            |
+| Files                          |           X            |          X          |            No Differences            |
+| History                        |           X            |          X          |            No Differences            |
+| Sites                          |           X            |          X          |            No Differences            |
+| Horseware                      |           O            |          X          | Not Present on lvlogics.firmwave.com |
+| Authentication & Authorization |           X            |          X          |                                      |
+| Devices                        |           X            |          X          |                                      |
+| Rules                          |           X            |          X          |                                      |
+| Sim Card                       |           O            |          X          |                                      |
+| Users                          |           X            |          X          |                                      |
+| Sim Manager D                  |           O            |          X          |                                      |
+| Subscriptions                  |           O            |          X          |                                      |
 
 
 Alarms:
