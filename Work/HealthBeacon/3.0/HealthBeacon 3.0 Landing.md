@@ -1,4 +1,4 @@
-# HealthBeacon 3.0
+# HealthBeacon 3.0 Landing
 
 Sharepoint: 
 GIthub:
