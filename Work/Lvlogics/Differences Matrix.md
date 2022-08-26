@@ -11,21 +11,21 @@ This page is to develop a matrix/table that highlights the differences between [
 ## Differences between Lvlogics and Master Codebase(Apps)
 
 | App                            | Available on lvlogics? | Available on Master | Models Notes |
-| ------------------------------ |:----------------------:| ------------------- | ------------ |
-| Alarms                         |           X            |           X          |              |
-| Analytics                      |           X            |            X         |              |
-| Auth Tokens                    |           X            |             X        |              |
-| Files                          |           X            |                X     |              |
-| History                        |           X            |                  X   |              |
-| Sites                          |           X            |                   X  |              |
-| Horseware                      |           O            |                   X  |              |
-| Authentication & Authorization |           X            |              X       |              |
-| Devices                        |           X            |               X      |              |
-| Rules                          |           X            |                     |              |
-| Sim Card                       |           X            |                     |              |
-| Users                          |           O            |                     |              |
-| Sim Manager D                  |           O            |                     |              |
-| Subscriptions                  |           O            |                     |              |
+| ------------------------------ |:----------------------:|:-------------------:| ------------ |
+| Alarms                         |           X            |          X          |              |
+| Analytics                      |           X            |          X          |              |
+| Auth Tokens                    |           X            |          X          |              |
+| Files                          |           X            |          X          |              |
+| History                        |           X            |          X          |              |
+| Sites                          |           X            |          X          |              |
+| Horseware                      |           O            |          X          |              |
+| Authentication & Authorization |           X            |          X          |              |
+| Devices                        |           X            |          X          |              |
+| Rules                          |           X            |          X          |              |
+| Sim Card                       |           O            |          X          |              |
+| Users                          |           X            |          X          |              |
+| Sim Manager D                  |           O            |          X          |              |
+| Subscriptions                  |           O            |          X          |              |
 
 
 Alarms:
