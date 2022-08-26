@@ -12,21 +12,20 @@ This page is to develop a matrix/table that highlights the differences between [
 
 | App                            | Available on lvlogics? | Available on Master | Models Notes |
 | ------------------------------ |:----------------------:| ------------------- | ------------ |
-| Alarms                         |           X            |                     |              |
-| Analytics                      |           X            |                     |              |
-| Auth Tokens                    |           X            |                     |              |
-| Files                          |           X            |                     |              |
-| History                        |           X            |                     |              |
-| Sites                          |           X            |                     |              |
-| Horseware                      |           O            |                     |              |
-| Authentication & Authorization |           X            |                     |              |
-| Devices                        |           X            |                     |              |
+| Alarms                         |           X            |           X          |              |
+| Analytics                      |           X            |            X         |              |
+| Auth Tokens                    |           X            |             X        |              |
+| Files                          |           X            |                X     |              |
+| History                        |           X            |                  X   |              |
+| Sites                          |           X            |                   X  |              |
+| Horseware                      |           O            |                   X  |              |
+| Authentication & Authorization |           X            |              X       |              |
+| Devices                        |           X            |               X      |              |
 | Rules                          |           X            |                     |              |
 | Sim Card                       |           X            |                     |              |
 | Users                          |           O            |                     |              |
 | Sim Manager D                  |           O            |                     |              |
 | Subscriptions                  |           O            |                     |              |
-|                                |                        |                     |              |
 
 
 Alarms:
