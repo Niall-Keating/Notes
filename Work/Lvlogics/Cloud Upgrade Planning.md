@@ -7,13 +7,13 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 
 # Cloud Upgrade Plan
 
-## Differences between Lvlogics and Master Codebase
+## Differences between Lvlogics and Master Codebase(Apps)
 
 Alarms, Analytics, Auth Token, Files, History, Sites - No difference
 
 Authentication & Authorization - Missing Permissions
 
-Devices - Missing 
+Devices - Missing: 
 	BLE Sensors, 
 	Device Alarms, 
 	Device Configuration, 
@@ -33,9 +33,7 @@ Has additional models Network Operator, Sim Card, Silo Strappings
 
 Missing all Horseware
 
-Rules
-
-Missing Notification Rule History, Notification Rule Types
+Rules Missing Notification Rule History, Notification Rule Types
 
 Sim card is under device on Lvlogics but seperate on master
 
