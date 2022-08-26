@@ -2,7 +2,7 @@
 project: Lvlogics
 date: 26-08-2022
 type: project notes
-tags: [aws, dms, Thingsboard, Lvlogics, Silo]
+tags: [aws, dms, Thingsboard, Lvlogics, Silo, ec2, rds]
 ---
 
 # Cloud Differences Matrix
