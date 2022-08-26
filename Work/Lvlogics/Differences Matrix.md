@@ -12,7 +12,7 @@ This page is to develop a matrix/table that highlights the differences between [
 
 | App                            | Available on lvlogics? | Available on Master | Models Notes |
 | ------------------------------ | ---------------------- | ------------------- | ------------ |
-| Alarms                         |                    |                     |              |
+| Alarms                         | x                      |                     |              |
 | Analytics                      |                        |                     |              |
 | Auth Tokens                    |                        |                     |              |
 | Files                          |                        |                     |              |
