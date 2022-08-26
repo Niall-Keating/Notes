@@ -5,6 +5,7 @@ Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva d
 1. Modify the `/<IMEI>/session` view to save the sample data uploaded by the teva device to thingsboard
 2. 
 
+## Tasks 
 - [ ] Create sequence diagram🛫 2022-08-29 🔼 
 
 
