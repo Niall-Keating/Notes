@@ -1,6 +1,12 @@
 # Tasks
 Any actions(ToDo's) that you need to take in the future
 
+## Not Complete
+```tasks
+not done
+where project = "Teva"
+```
+
 ---
 
 - [ ] Do SmartFlow Drawings 📅 2022-08-24 
