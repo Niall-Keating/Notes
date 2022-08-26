@@ -10,13 +10,22 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 ## Differences between Lvlogics and Master Codebase(Apps)
 
 Alarms:
+- No difference
 
-Analytics, 
-Auth Token, 
-Files, 
-History, 
-Sites - 
+Analytics:
+- No difference
 
+Auth Token:
+- No difference
+
+Files:
+- No difference
+
+History:
+- No difference
+
+Sites:
+- No difference
 
 Authentication & Authorization:
 - Missing:
@@ -43,9 +52,8 @@ Devices:
 	- Sim Card
 	- Silo Strappings
 
-Missing all Horseware
-
-Rules Missing Notification Rule History, Notification Rule Types
+Rules: 
+- Missing Notification Rule History, Notification Rule Types
 
 ## Other Differences
 Sim card is under device on Lvlogics but seperate on master
