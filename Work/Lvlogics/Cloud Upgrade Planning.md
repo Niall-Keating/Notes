@@ -16,7 +16,23 @@ Authentication & Authorization - Missing Permissions
 sds
 
 Devices:
-	- Missing Models
+- BLE Sensors
+- Device Alarms
+- Device Configuration 
+- Device Mode State,
+- Display Modes
+- Faults
+- Invents
+- J1939
+- Modbus
+- Modbus Configs, 
+- Settings Display Modes,
+- Telemetry Keys,
+- URLs, 
+- Webhooks
+
+
+Missing Models
 		BLE Sensors, 
 		Device Alarms, 
 		Device Configuration, 
