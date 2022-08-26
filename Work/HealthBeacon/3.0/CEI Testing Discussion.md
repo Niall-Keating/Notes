@@ -1,18 +1,9 @@
 ---
-project: Teva
+project: HealthBeacon 3.0
 date: 23-08-2022
 type: internal meeting
-tags: [Thingsboard, DMS, AWS, Teva, JSON, session-endpoint, updates-endpoint]
+tags: [ESP32, EVF, AWS, Teva, JSON, session-endpoint, updates-endpoint]
 ---
-
-# 
-
----
-project: mySmartFlow
-date: 16-06-2022
-type: internal meeting
----
-
 
 # Initial Kickoff Meeting (Internal)
 
