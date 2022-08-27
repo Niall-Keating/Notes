@@ -9,5 +9,5 @@
 - [ ] Make sure online check-in is complete(Dublin) 📅 2022-09-30⏫ 
 - [ ] Aer Lingus online check-in 🛫 2023-05-09 📅 2023-06-09⏫ 
 - [ ] Passport
-- [ ] See [MWC Las Vegas 2022] for work tasks
+- [ ] See [[Work/Shows and Conferences/Mobile World Congress Las Vegas 2022/ToDo's]] for work tasks
 - [ ] 
