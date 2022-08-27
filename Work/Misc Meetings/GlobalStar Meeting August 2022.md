@@ -2,7 +2,7 @@
 date: 24-08-2022
 type: meeting notes
 tags: [sat-comm, globalstar, leo, realm, st-150m]
-location: "DCU Alpha"
+location: DCU Alpha
 ---
 
 ## Attendees
