@@ -7,7 +7,11 @@ not done
 path includes Teva
 ```
 
-# Not Complete
+## Not Complete (MWCLV22)
+```tasks
+not done
+path includes Mobile World Congress
+```
 
 ## Old FOrmat
 - [ ] Do SmartFlow Drawings 📅 2022-08-24 
