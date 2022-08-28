@@ -3,6 +3,9 @@ Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva d
 
 ## DMS changes required
 1. Modify the `/<IMEI>/session` view to save the sample data uploaded by the teva device to thingsboard
+	- Use `/<IMEI>/updates` view as a refernece for how to save teleemetry to Thingsboard
+	- See [Github](https://github.com/taoglas-iot/device_manager/blob/5c7e818da01377c1066fb13dfa7ffd2723b59299/api/data_pipeline.py#L60-L78) for reference on how to use the Thingsboard adapter
+	- The following Keys
 2. 
 
 ## Tasks 
