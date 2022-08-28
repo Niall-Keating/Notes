@@ -1,3 +1,10 @@
+---
+project: Teva
+date: 24-08-2022
+type: project notes
+tags: [Thingsboard, DMS, AWS, Teva, JSON, session-endpoint, updates-endpoint, FT232, GPIO, UI]
+---
+
 # Intro
 Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva device to upload it's data to as a lot of the functionality is already build into the DMS. In order to get the functionality that the hardware guys are looking for, we will need to extend the functionality inside of the session endpoint to store the inhaler sample data to thingsboard. The local test app running the test on the inhaler will then poll the DMS to pullthis data down locally. 
 
@@ -14,7 +21,7 @@ Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva d
 	- Write to the GPIO on the Smart Inhaler to simulate the cap being opened and closed on the inhaler. Record the time of this interaction
 	- Wait `X` minutes and then use the EDGE Insights API to pull in the latest samples for the DUT, if the sample timestamp is equal to or greater than the time the interaction was triggered, save the lines to a local database and display the samples on the table view
 	- Delay `X` minutes and repeat the test steps(This should be an interrupt or a cron)
-	- If the next GPIO 
+	- If the next GPIO interaction is scheduled to take place but the previous samples have not been uploaded, mark the previous test as failed/incomplete.
 
 ## Tasks 
 - [ ] Create sequence diagram🛫 2022-08-29 🔼 
