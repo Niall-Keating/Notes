@@ -9,7 +9,9 @@ Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva d
 		- `bat_mv`
 		- `pres_min`
 		- `duration_ms`
-2. Use Python to create a test application that will run the local i
+2. Use Python to create a test application that will run the local Inhaler tests. 
+	- This will use the FT232H driver to interact with GPIO and read logs from the devices
+	- 
 
 ## Tasks 
 - [ ] Create sequence diagram🛫 2022-08-29 🔼 
