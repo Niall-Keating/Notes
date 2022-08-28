@@ -22,8 +22,6 @@ path includes Mobile World Congress
 - [ ] Organise HB1.0 handover with Rob/Marco 🔽 🛫 2022-08-29 
 - [ ] Prune support backlogs
 - [ ] Add multiple COMMS to teva arch ⏳ 2022-08-25 
-- [ ] Spin up G3 UDP server and pull files off ⏳ 2022-08-25 
-- [ ] Remove unnecessary security groups on AWS 📅 2022-08-26 
 - [ ] BLE units investigfation [ticket](https://taoglas.atlassian.net/browse/IPES-40), ⏳ 2022-08-26 
 - [ ] Take a look at IPES-22 ⏳ 2022-08-29 
 - [ ] TIcket for 38 devices for review ⏳ 2022-08-26 
