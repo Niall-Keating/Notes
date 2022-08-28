@@ -4,4 +4,6 @@
 - [ ] Delete Security group for G3 UDP
 - [ ] Delete G3 VPC
 - [ ] Remove unnecessary security groups on AWS
+- [ ] Clean up RDS databases
+- [ ] Review Snapshots that can be deleted
 - [ ] 
