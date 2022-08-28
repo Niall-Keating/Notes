@@ -13,6 +13,11 @@ not done
 path includes Mobile World Congress
 ```
 
+## Backlog
+```tasks
+not done
+```
+
 ## Old FOrmat
 - [ ] Do SmartFlow Drawings 📅 2022-08-24 
 - [x] Schedule CS Engineering Call ⏳ 2022-08-16 ✅ 2022-08-23
@@ -21,5 +26,5 @@ path includes Mobile World Congress
 - [x] Discuss Dmitri BSCI / SmartFlow with Derek ✅ 2022-08-28
 
 - [ ] Removed x2 iFixIT kits from the IoT Lab on Thursday 25/08/2022, need to order new and reflect in lab plan ⏳ 2022-08-26 
-- [ ] HB3. CEI chat write up⏳ 2022-08-26 ⏫ 
+
 
