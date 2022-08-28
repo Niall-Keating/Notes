@@ -11,7 +11,8 @@ Based on [[Cloud Sync]] we decided not to develop a new cloud app for the Teva d
 		- `duration_ms`
 2. Use Python to create a test application that will run the local Inhaler tests. 
 	- This will use the FT232H driver to interact with GPIO and read logs from the devices
-	- 
+	- Write to the GPIO on the Smart Inhaler to simulate the cap being opened and closed on the inhaler. Record the time of this interaction
+	- Wait `X` minutes and then use the EDGE Insights API to pull in the sam
 
 ## Tasks 
 - [ ] Create sequence diagram🛫 2022-08-29 🔼 
