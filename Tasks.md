@@ -5,6 +5,7 @@ Any actions(ToDo's) that you need to take in the future
 ```tasks
 not done
 due today
+sort by due
 ```
 
 ## Not Complete (Teva)
@@ -22,6 +23,7 @@ path includes Mobile World Congress
 ## Backlog
 ```tasks
 not done
+sort by due
 ```
 
 ## Old FOrmat
