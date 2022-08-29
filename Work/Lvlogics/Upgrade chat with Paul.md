@@ -19,7 +19,8 @@ Paul McGarrigle
 - Ignore need to update, as this is just if we were upgrading lvlogics rather than adding silo features to master
 - How do we handle org unit states when deice visibility currently depends on the users?
 - Pagination will be available
-- 
+- Easier device provisioning on newer(via device type confs)
+- How will be use organisations?
 
 ## My Additional Notes
 What we need to do(task-wise)
