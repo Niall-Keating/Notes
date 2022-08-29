@@ -25,3 +25,5 @@ What we need to do(task-wise)
 - Create a new SIlo App, this should contain all of the Silo specific business logic
 	- Silo Strapping
 	- Sigfox Adapter? Is this a webhook?
+- Modify Org Unit's to allow multiple device associations?
+	- Need to check with Paul how possible it is going to be to use template dashboards
