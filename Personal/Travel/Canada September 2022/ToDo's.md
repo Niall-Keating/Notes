@@ -10,4 +10,6 @@
 - [ ] Aer Lingus online check-in 🛫 2023-05-09 📅 2023-06-09⏫ 
 - [ ] Passport
 - [ ] See [[Work/Shows and Conferences/Mobile World Congress Las Vegas 2022/ToDo's]] for work tasks
+- [ ] curley urly's
+- [ ] Piggies 
 - [ ] 
