@@ -10,7 +10,9 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 1. Before the upgrade should begin, the following features need to be added to master code base:
 	- Silo strapping feature needs to be added to master(in a Silo Application)
 	- Organisation Units need to be modified to allow a device to be in multiple org units.
-	- HTML templates on th
+	- HTML templates visible/editable on the front end needs to be added to master
+	- Display of Thingsboard dashboard needs to be added to the user edit page on the dms front end
+	- Need to make sure we can mimic existing functionanality in the rules engine
 2. On agreed kickoff date, take a snapshot of both the MySQL and Postgres databases associated with lvlogics.firmwave.com
 3. Spin up a new AWS EC2 instance once the snapshots are complete 
 4. Use these database snapshots to perform the required database migrations for the upgrades to master version of the DMS 
