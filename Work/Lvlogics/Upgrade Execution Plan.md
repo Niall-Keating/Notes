@@ -20,4 +20,5 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 1. On agreed kickoff date, take a snapshot of both the MySQL and Postgres databases associated with lvlogics.firmwave.com
 2. Spin up a new AWS EC2 instance once the snapshots are complete 
 3. Use these database snapshots to perform the required database migrations for the upgrades to master version of the DMS 
-4. Once the existing codebase has been upgraded 
+4. Once the existing codebase and models have been upgraded, start the dervice on an internal lvlogics domain, silo-temp.firmwave.com?
+5. Begin validation testing to ensure everything is running as expected
