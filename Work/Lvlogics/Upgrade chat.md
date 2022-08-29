@@ -17,4 +17,5 @@ Paul McGarrigle
 	- NK, Barry can go this with groups currently
 - Notifications, need to keep access for Barry to templates
 - Ignore need to update, as this is just if we were upgrading lvlogics rather than adding silo features to master
+- How do we handle org unit states when deice visibility currently depends on the users?
 - 
