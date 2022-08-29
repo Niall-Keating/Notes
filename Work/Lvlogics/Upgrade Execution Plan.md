@@ -26,5 +26,8 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 6. Begin validation testing to ensure everything is running as expected
 7. Once validation testing is complete, we need a plan to start moving customers, there is 2 approaches:
 	1. Perform an out of hours maintenance window during this time all of the customer data between the initial snapshot and the downtime is migrated to the new instance, this is brought back online as the new instance 
-		- Disadvantage here is that the TB urls will all have to be s
-	2. Migrate over the customers/devices on a per customer basis. This is much 
+		- Disadvantage here is that the TB urls will all have to be sent out again in one go
+			- Taoglas could offer a solution to automatically send logins via whatsapp to the farmers?
+	2. Migrate over the customers/devices on a per customer basis. This is much more labor intensive but Padraig can notify customers on a one to one basis
+8. Once the overall upgrade is completed documentation should be written up for the support team and for Barry 
+9. 
