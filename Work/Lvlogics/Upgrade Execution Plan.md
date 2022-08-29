@@ -25,4 +25,6 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 5. Once the existing codebase and models have been upgraded, start the dervice on an internal lvlogics domain, silo-temp.firmwave.com?
 6. Begin validation testing to ensure everything is running as expected
 7. Once validation testing is complete, we need a plan to start moving customers, there is 2 approaches:
-	1. P
+	1. Perform an out of hours maintenance window during this time all of the customer data between the initial snapshot and the downtime is migrated to the new instance, this is brought back online as the new instance 
+		- Disadvantage here is that the TB urls will all have to be s
+	2. Migrate over the customers/devices on a per customer basis. This is much 
