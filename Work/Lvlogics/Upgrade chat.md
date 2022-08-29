@@ -5,4 +5,4 @@
 - Org unit in master instead of org units, aim to get lvlogics to move to org units 
 	- NK Q, Can you map a device to multiple org units?
 	- NK, Barry can go this with groups currently
-	- 
+- 
