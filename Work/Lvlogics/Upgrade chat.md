@@ -6,4 +6,5 @@
 	- NK Q, Can you map a device to multiple org units?
 	- NK, Barry can go this with groups currently
 - Notifications, need to keep access for Barry to templates
+- Ignore need to update, as this is just if we were upgrading lvlogics rather than adding silo features to master
 - 
