@@ -24,4 +24,5 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 	- The following widgets need to be upgraded for newer thingsboard?
 5. Once the existing codebase and models have been upgraded, start the dervice on an internal lvlogics domain, silo-temp.firmwave.com?
 6. Begin validation testing to ensure everything is running as expected
-7. Once validation testing is complete, we need a plan to start moving customers
+7. Once validation testing is complete, we need a plan to start moving customers, there is 2 approaches:
+	1. P
