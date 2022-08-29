@@ -13,7 +13,11 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 	- HTML templates visible/editable on the front end needs to be added to master
 	- Display of Thingsboard dashboard needs to be added to the user edit page on the dms front end
 	- Need to make sure we can mimic existing functionanality in the rules engine
-2. On agreed kickoff date, take a snapshot of both the MySQL and Postgres databases associated with lvlogics.firmwave.com
-3. Spin up a new AWS EC2 instance once the snapshots are complete 
-4. Use these database snapshots to perform the required database migrations for the upgrades to master version of the DMS 
-5. Once the existing codebase has been upgraded 
+	- Need to have a plan for migrating each model as some models will be moved to differnet apps
+		- Templates Model
+		- Strapping Model
+		- 
+1. On agreed kickoff date, take a snapshot of both the MySQL and Postgres databases associated with lvlogics.firmwave.com
+2. Spin up a new AWS EC2 instance once the snapshots are complete 
+3. Use these database snapshots to perform the required database migrations for the upgrades to master version of the DMS 
+4. Once the existing codebase has been upgraded 
