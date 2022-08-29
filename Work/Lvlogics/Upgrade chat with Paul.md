@@ -18,4 +18,10 @@ Paul McGarrigle
 - Notifications, need to keep access for Barry to templates
 - Ignore need to update, as this is just if we were upgrading lvlogics rather than adding silo features to master
 - How do we handle org unit states when deice visibility currently depends on the users?
-- 
+
+## My Additional Notes
+What we need to do(task-wise)
+
+- Create a new SIlo App, this should contain all of the Silo specific business logic
+	- Silo Strapping
+	- Sigfox Adapter? Is this a webhook?
