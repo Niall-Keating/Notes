@@ -29,4 +29,4 @@ What we need to do(task-wise)
 	- Need to check with Paul how possible it is going to be to use template dashboards
 - See [rules engine diff](https://github.com/taoglas-iot/device_manager/compare/master...lvlogics#diff-4dae34cba453d2a822c887a0d74723dc5fd61cec1f39484bf3c8e5c459017146R17-R22)
 - And [HERE](https://github.com/taoglas-iot/device_manager/compare/master...lvlogics#diff-4dae34cba453d2a822c887a0d74723dc5fd61cec1f39484bf3c8e5c459017146R57-R61)
-- 
+- What is ADS.py?
