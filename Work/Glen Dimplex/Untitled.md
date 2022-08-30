@@ -18,7 +18,10 @@ tags: [GD, Ethernet-Gateway, Custom-Domains]
 		- i.e. Discovery Service URL, HealthCheck URL, BLE Pin etc.
 		- This works as follows:
 			- perl script -> usb -> bootloader -> special area of flash 
-			- Look at the linker file for the special area of flash called Device Info )256Bytes)
+			- Look at the linker file for the special area of flash called DeviceInfo (256Bytes)
+		- Basically the perl scrip flashes the bootlaoder, then communicates with the bootlaoder to send it the above details, the bootlaoder then stores these in a section of flash.
+- In production firmware, this section of flash is read during device boot to ascertain the Azure URLS to use
+	- This 
 
 
 
