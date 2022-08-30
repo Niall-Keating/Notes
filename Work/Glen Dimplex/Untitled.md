@@ -32,3 +32,8 @@ Looks like will use urls hardcoded from binary
 
 He needs to put urls in end of flash section
 
+This needs to be fixed before sendiong over to them
+
+He's hoping he can do them today 
+
+
