@@ -15,6 +15,10 @@ tags: [GD, Ethernet-Gateway, Custom-Domains]
 - In the factory, we use a script called `AES_BOOTLOADER.pl` to flash the bootloader and application binary to the boards. 
 	- This was originally provided by Microchip and can be used to flash most of their ARM absed devices
 	- We made some modifications that allow us to pass through some more info to the device during provisioning. 
+		- i.e. Discovery Service URL, HealthCheck URL, BLE Pin etc.
+		- This works as follows:
+			- perl script -> usb -> bootloader -> special area of flash 
+			- Look at the linker file for the special area of flash called Device Info )256Bytes)
 
 
 
