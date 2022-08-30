@@ -1,2 +1,3 @@
 - Notable objects on backend:
+	- Sigfox device key, needs to be maintained 
 	- 
