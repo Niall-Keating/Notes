@@ -22,7 +22,8 @@ tags: [GD, Ethernet-Gateway, Custom-Domains]
 		- Basically the perl scrip flashes the bootlaoder, then communicates with the bootlaoder to send it the above details, the bootlaoder then stores these in a section of flash.
 - In production firmware, this section of flash is read during device boot to ascertain the Azure URLS to use
 	- This needs to be extended to include the new custom URLs
-		- These need to be added at the end 
+		- These need to be added at the end of the block of flash so as not to cause backward compatability issues with in the firmware that does/doesn't ahve these URLs.
+	- 
 
 
 
