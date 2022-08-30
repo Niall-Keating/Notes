@@ -4,4 +4,5 @@
 		- All devices that are visible to lvlogics are in the LaserSensor org
 	- Silo Strappings Model in the devices app
 		- ONly view here don't change this from back end
-		- 
+	- Mapping is user to dashboarc 1:1
+	- 
