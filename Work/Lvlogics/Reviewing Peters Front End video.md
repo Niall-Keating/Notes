@@ -7,4 +7,6 @@
 - Strapping table convertys laser level to percentage and tonnage
 - Barry can manage user accounts on the system
 	- He can determine waht a user can view and or manage
-	- 
+	- he gives them the public dashboard for the dashboard
+	- Just email no SMS, NK Q: why is he having to put in random phone nums?
+	- Need to review telem watch rules, he 
