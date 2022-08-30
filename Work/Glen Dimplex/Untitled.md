@@ -1,14 +1,16 @@
 ---
-project: Teva
-date: 22-08-2022
+project: Glen Dimplex
+date: 30-08-2022
 type: internal meeting
-tags: [Ethernet-Gateway, Custom-Domains]
+tags: [GD, Ethernet-Gateway, Custom-Domains]
 ---
 # Chat with Kamil 30/08/2022
 
-## A
+## Attendees
+- Niall Keating
+- Kamil Gardziejczyk
 
-
+## Notes
 problem is in the factory we have aes bootloader perl script
 	Originalkly this was from microsoft, tool to flasjh bootlaoder and binary onto same70
 	we made some mods so that we can poass more in to thedevice duting flashing
