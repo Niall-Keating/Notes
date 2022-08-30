@@ -27,3 +27,8 @@ during device initialisination we check ioif in production mode
 
 It looks like in firmare it doesn't use urls from flash in production mode 
 
+Looks like will use urls hardcoded from binary 
+
+
+He needs to put urls in end of flash section
+
