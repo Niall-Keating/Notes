@@ -28,7 +28,26 @@ tags: [GD, Ethernet-Gateway, Custom-Domains]
 		- For dev builds
 	2. Bootloader Flash
 		- For production builds
-- 
+- When we boot the following is called:
+
+``` C
+
+void PrepareDeviceInfo(void) {
+   memcpy(&GDIDAndToken[0], &deviceInfo[0], GDID_TOKEN_SIZE);
+   memcpy(&mutualAuthenticationEnabled, &deviceInfo[MUTUAL_AUTH_OFFSET], 1);
+#ifndef FW_PRODUCTION_MODE
+   memcpy(&discoveryServiceCustomURL[0], &deviceInfo[DISCOVERY_CUSTOM_SERVICE_URL_OFFSET], DISCOVERY_CUSTOM_SERVICE_URL_LENGTH);
+   memcpy(&discoveryServiceURL[0], &deviceInfo[DISCOVERY_SERVICE_URL_OFFSET], DISCOVERY_SERVICE_URL_LENGTH);
+   memcpy(&healthCheckURL[0], &deviceInfo[HEALTH_CHECK_URL_OFFSET], HEALTH_CHECK_URL_LENGTH);
+   memcpy(&healthCheckCustomURL[0], &deviceInfo[HEALTH_CHECK_CUSTOM_URL_OFFSET], HEALTH_CHECK_CUSTOM_URL_LENGTH);
+#endif
+   ble_passkey = (deviceInfo[BLE_PASSKEY_OFFSET] << 24) | (deviceInfo[BLE_PASSKEY_OFFSET + 1] << 16) | (deviceInfo[BLE_PASSKEY_OFFSET + 2] << 8) | (deviceInfo[BLE_PASSKEY_OFFSET + 3] << 0);
+   memcpy(&slot0FileName[0], &deviceInfo[SLOT0_NAME_OFFSET], SLOT_NAME_LENGTH);
+   memcpy(&slot1FileName[0], &deviceInfo[SLOT1_NAME_OFFSET], SLOT_NAME_LENGTH);
+   memcpy(&slot2FileName[0], &deviceInfo[SLOT2_NAME_OFFSET], SLOT_NAME_LENGTH);
+}
+
+```
 
 
 
