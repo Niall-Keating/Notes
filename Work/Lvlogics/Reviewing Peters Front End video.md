@@ -1,2 +1,3 @@
 - Customer ID is controlled by Barry
+- only have tonnage if strapping table is added for a device
 - 
