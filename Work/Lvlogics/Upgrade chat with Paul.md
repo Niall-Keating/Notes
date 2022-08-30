@@ -33,6 +33,7 @@ What we need to do(task-wise)
 - See [rules engine diff](https://github.com/taoglas-iot/device_manager/compare/master...lvlogics#diff-4dae34cba453d2a822c887a0d74723dc5fd61cec1f39484bf3c8e5c459017146R17-R22)
 - And [HERE](https://github.com/taoglas-iot/device_manager/compare/master...lvlogics#diff-4dae34cba453d2a822c887a0d74723dc5fd61cec1f39484bf3c8e5c459017146R57-R61)
 - What is ADS.py?
+	- Aggregrate Data Stream, this is where silo strapping is performed
 - Analytics_dashbaord_url?
 - Some diff in the [User/forms.py](https://github.com/taoglas-iot/device_manager/compare/master...lvlogics#diff-36b4d731c2240967afb4b917ec37c15cca339c080522aaee8c97432632c61720R565)
 - 
