@@ -11,6 +11,11 @@ tags: [GD, Ethernet-Gateway, Custom-Domains]
 - Kamil Gardziejczyk
 
 ## Notes
+
+- In the factory, we use a script called `AES`
+
+
+
 problem is in the factory we have aes bootloader perl script
 	Originalkly this was from microsoft, tool to flasjh bootlaoder and binary onto same70
 	we made some mods so that we can poass more in to thedevice duting flashing
