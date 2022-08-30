@@ -49,7 +49,7 @@ void PrepareDeviceInfo(void) {
 
 ```
 
-
+- This checks if we are in production firmware mode, if we are it doesn't use the flash URLs for some reason, this was news 
 
 problem is in the factory we have aes bootloader perl script
 	Originalkly this was from microsoft, tool to flasjh bootlaoder and binary onto same70
