@@ -22,4 +22,6 @@ Only in booaltader mode
 in flashmode it sits in ram
 
 
-during device in
+during device initialisination we check ioif in production mode
+	copy from flash into (fw_common.c(prepareDeviceInfo()))
+	
