@@ -1,3 +1,5 @@
 - Customer ID is controlled by Barry
 - only have tonnage if strapping table is added for a device
-- 
+- is device edit page different?
+	- Device ID, I think there's new fields
+- Sigfox config 
