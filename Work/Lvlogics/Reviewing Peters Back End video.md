@@ -1,3 +1,6 @@
 - Notable objects on backend:
 	- Sigfox device key, needs to be maintained 
-	- 
+	- Organisations
+		- All devices that are visible to lvlogics are in the LaserSensor org
+	- Silo Strappings Model in the devices app
+		- 
