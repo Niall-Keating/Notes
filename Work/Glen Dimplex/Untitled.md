@@ -12,7 +12,9 @@ tags: [GD, Ethernet-Gateway, Custom-Domains]
 
 ## Notes
 
-- In the factory, we use a script called `AES`
+- In the factory, we use a script called `AES_BOOTLOADER.pl` to flash the bootloader and application binary to the boards. 
+	- This was originally provided by Microchip and can be used to flash most of their ARM absed devices
+	- We made some modifications that allow us to pass through some more info to the device during provisioning. 
 
 
 
