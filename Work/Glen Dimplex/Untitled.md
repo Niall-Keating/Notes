@@ -1,4 +1,12 @@
-chat with kamil
+---
+project: Teva
+date: 22-08-2022
+type: internal meeting
+tags: [Ethernet-Gateway, Custom-Domains]
+---
+# Chat with Kamil 30/08/2022
+
+## A
 
 
 problem is in the factory we have aes bootloader perl script
