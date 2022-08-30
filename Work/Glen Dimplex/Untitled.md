@@ -24,4 +24,6 @@ in flashmode it sits in ram
 
 during device initialisination we check ioif in production mode
 	copy from flash into (fw_common.c(prepareDeviceInfo()))
-	
+
+It looks like in firmare it doesn't use urls from flash in production mode 
+
