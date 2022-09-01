@@ -13,9 +13,10 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 
 
 ## Notes
-
-Groups on dms
-	Name doesn't relflect on tb, always has to name it on the lsi edit button
+- Lvlogics are using groups on the DMS to partition devices into units
+	- When they create a group on the DMS, this name is not reflected on the dashboard, they have to find the *NULL* row in the lsit and then use the edit button to name it.
+		- This would be streamlined for them if the asset could be named frmo thre DMS
+			- 
 
 Go to device from tb url
 	and strapping
