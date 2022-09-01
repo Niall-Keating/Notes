@@ -5,6 +5,9 @@ type: external meeting
 tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 ---
 
+## Tasks
+- [ ] Niall to send on documentation on how the nested structure of the org units structure works ⏳ 2022-09-02 🔽 
+
 ## Attendees
 - Padraig Skelly (Lvlogics)
 - Niall Keating (Taoglas)
@@ -17,11 +20,11 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 	- When they create a group on the DMS, this name is not reflected on the dashboard, they have to find the *NULL* row in the lsit and then use the edit button to name it.
 		- This would be streamlined for them if the asset could be named frmo thre DMS
 		- (NK) - This is Possible
+	- I proposed using org units on the new site as this will save a significant amount of effort for us. 
 - They often have multiple browser tabs open with multipls pages, i.e. device list/edit pages, groups, dashboard, rules etc
-	- Would be very convientent if you could go to a devices strapping table and edit pa
-
-Go to device from tb url
-	and strapping
+	- Would be very convientent if you could go to a devices strapping table and edit page from the dashbaord
+		- (NK) - This is posssible
+- 
 
 
 Org units
