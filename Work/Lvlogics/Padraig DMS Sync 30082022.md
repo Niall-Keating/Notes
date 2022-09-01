@@ -1,3 +1,18 @@
+---
+project: Lvlogics
+date: 30-08-2022
+type: external meeting
+tags: [aws, dms, Thingsboard, Lvlogics, Silo]
+---
+
+## Attendees
+- Padraig Skelly (Lvlogics)
+- Niall Keating (Taoglas)
+- Shane Bradley (Taoglas)
+- Paul McGarrigle (Taoglas)
+
+
+## Notes
 
 Groups on dms
 	Name doesn't relflect on tb, always has to name it on the lsi edit button
