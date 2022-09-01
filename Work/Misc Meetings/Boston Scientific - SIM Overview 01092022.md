@@ -26,4 +26,7 @@ location: Microsoft Teams
 	- **Misconception** - Only MFF2 SIMs can be an eSIM
 		- This is incorrect, eSIM's are much much more than a hardware SIM that can be soldered onto a PCB
 		- It's an entire set of tools that allows for multiple SIM profiles, remote provisioning, OTA updates
-		- eSIMs hav
+		- eSIMs have a very lite operating system on them to marshal profiles and updates
+	- Updates to the eSIM happen via a link directly to the modem/module, no interaction with host CPU(i.e. ESP32 on the Lynx) required.
+
+## More Info
