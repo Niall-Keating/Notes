@@ -1,7 +1,7 @@
 ---
 date: 01-09-2022
 type: meeting notes
-tags: [Boston-Scientific, BSCI, Vodafone, AT&T, Verizon, Teal, Twilio, Kore, Kore-Wireless, eSIM, ]
+tags: [Boston-Scientific, BSCI, Vodafone, AT&T, Verizon, Teal, Twilio, Kore, Kore-Wireless, eSIM, eUICC, MNO, MVNO, Cellular, CAT1, CATM, MFF2, Thales, GSMA. Multi-IMSI,]
 location: Microsoft Teams
 ---
 
