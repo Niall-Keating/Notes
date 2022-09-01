@@ -14,5 +14,12 @@ location: Microsoft Teams
 - Robert (Boston Scientific)
 
 ## Notes
-- Adrian presented - [[[BSCI][01092022] - Taoglas IoT Solutions - Connectivity Options.pdf]]
-	- 
+- Adrian presented - [[(BSCI)(01092022) - Taoglas IoT Solutions - Connectivity Options.pdf]]
+	- Gave an overview of the different SIM types.
+		- 2FF - Mini SIM
+		- 3FF - Micro SIM
+		- 4FF - Nano SIM
+		- MFF2- Chip SIM
+			- Also known as:
+				- eSIM
+				- Soldered SIM
