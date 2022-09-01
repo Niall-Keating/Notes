@@ -71,3 +71,7 @@
 - aws monitoring on grafana/prometheus
 - APN list file that matches IMSI prefix... common across all devices
 - doxygen
+
+## Cloud Thoughs 01/09/2022
+- should have a single ingestion point for all devices, i,e. ingestion.taoglas.com 
+	- 

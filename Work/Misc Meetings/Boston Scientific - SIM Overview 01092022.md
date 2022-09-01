@@ -33,4 +33,5 @@ location: Microsoft Teams
 - https://www.gsma.com/iot/embedded-sim/
 - http://simalliance.org/euicc/euicc-technical-releases/
 - https://infocentre2.gsma.com/gp/og/STF/CRT/Pages/GSMA-RSP-Compliance-Products.aspx - Requires a Login
+- https://ec.europa.eu/digital-single-market/en/ecall-time-saved-lives-saved
 - 
