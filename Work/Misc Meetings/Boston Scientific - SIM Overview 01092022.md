@@ -23,3 +23,7 @@ location: Microsoft Teams
 			- Also known as:
 				- eSIM
 				- Soldered SIM
+	- **Misconception** - Only MFF2 SIMs can be an eSIM
+		- This is incorrect, eSIM's are much much more than a hardware SIM that can be soldered onto a PCB
+		- It's an entire set of tools that allows for multiple SIM profiles, remote provisioning, OTA updates
+		- eSIMs hav
