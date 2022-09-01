@@ -16,7 +16,9 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 - Lvlogics are using groups on the DMS to partition devices into units
 	- When they create a group on the DMS, this name is not reflected on the dashboard, they have to find the *NULL* row in the lsit and then use the edit button to name it.
 		- This would be streamlined for them if the asset could be named frmo thre DMS
-			- 
+		- (NK) - This is Possible
+- They often have multiple browser tabs open with multipls pages, i.e. device list/edit pages, groups, dashboard, rules etc
+	- Would be very convientent if you could go to a devices strapping table and edit pa
 
 Go to device from tb url
 	and strapping
