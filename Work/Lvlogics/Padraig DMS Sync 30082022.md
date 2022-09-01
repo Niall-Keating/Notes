@@ -21,6 +21,9 @@ tags: [aws, dms, Thingsboard, Lvlogics, Silo]
 		- This would be streamlined for them if the asset could be named frmo thre DMS
 		- (NK) - This is Possible
 	- I proposed using org units on the new site as this will save a significant amount of effort for us. 
+	- The have the concept of Area Sales Managers(ASM's), these are sales people in DairyGold that are responsible for a certain number of farmers. 
+		- DairyGold is broken down into TC units, these are units of silos and different ASM's can have views of different silo's with in a TC
+		- Therefore the units may not work as you cannot limit what devices a user 
 - They often have multiple browser tabs open with multipls pages, i.e. device list/edit pages, groups, dashboard, rules etc
 	- Would be very convientent if you could go to a devices strapping table and edit page from the dashbaord
 		- (NK) - This is posssible
