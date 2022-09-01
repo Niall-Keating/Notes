@@ -78,5 +78,13 @@
 	- This is a simple server that is backed by a highly available database
 	- Single write, multi read?
 		- Read replicas
-- We have a 
-	
+- We have a very thin layer
+	- Sample ingestion
+	- Hash
+	- Conf
+	- Report
+	- Connection details
+- Then webhooks and API access to everything else 
+- Sinlge ingestion idea allows us to have a central product database alsoe(highly available)
+- Factory devices get provisioned straight in there?
+- Watched a video on [scaling Django]()
