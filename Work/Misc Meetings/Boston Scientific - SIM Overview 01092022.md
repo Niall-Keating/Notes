@@ -30,3 +30,7 @@ location: Microsoft Teams
 	- Updates to the eSIM happen via a link directly to the modem/module, no interaction with host CPU(i.e. ESP32 on the Lynx) required.
 
 ## More Info
+- https://www.gsma.com/iot/embedded-sim/
+- http://simalliance.org/euicc/euicc-technical-releases/
+- https://infocentre2.gsma.com/gp/og/STF/CRT/Pages/GSMA-RSP-Compliance-Products.aspx - Requires a Login
+- 
