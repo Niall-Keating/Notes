@@ -74,4 +74,9 @@
 
 ## Cloud Thoughs 01/09/2022
 - should have a single ingestion point for all devices, i,e. ingestion.taoglas.com 
-	- 
+	- MQTT, HTTPS etc
+	- This is a simple server that is backed by a highly available database
+	- Single write, multi read?
+		- Read replicas
+- We have a 
+	
