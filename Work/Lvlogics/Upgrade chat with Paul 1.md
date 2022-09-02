@@ -22,4 +22,4 @@ Paul McGarrigle
 - New lvlogics app on django
 	- any lvlogiucs only business logic will be contained here
 	- ie strapping will be in here 
-- 
+	- Need to review how they use templates
