@@ -13,5 +13,7 @@ Paul McGarrigle
 ## Notes
 - Terminilogy:
 	- lvlogics.firmwave.com - The existing platform
+	- lvlogics v2 - The new platform
+- don't do migrations from lvlogics.firmwave.com to lvlogics v2
+	- Export device SN/IMEI from lvlogics.firmwave
 	- 
-- don't do migrations from lvlogics 
