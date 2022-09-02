@@ -11,5 +11,7 @@ Niall Keating
 Paul McGarrigle 
 
 ## Notes
--  
+- Terminilogy:
+	- lvlogics.firmwave.com - The existing platform
+	- 
 - don't do migrations from lvlogics 
