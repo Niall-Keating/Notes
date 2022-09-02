@@ -18,4 +18,8 @@ Paul McGarrigle
 	- Export device SN/IMEI and public key from lvlogics.firmwave
 	- Import using bulk add on dms as new devices
 	- Then export params's etc on lvl.firm and import into lvl v2 somhow
+- Same as above but for users
+- New lvlogics app on django
+	- any lvlogiucs only business logic will be contained here
+	- ie strapping will be in here 
 - 
