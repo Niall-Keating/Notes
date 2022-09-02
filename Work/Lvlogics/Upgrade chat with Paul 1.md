@@ -15,5 +15,7 @@ Paul McGarrigle
 	- lvlogics.firmwave.com - The existing platform
 	- lvlogics v2 - The new platform
 - don't do migrations from lvlogics.firmwave.com to lvlogics v2
-	- Export device SN/IMEI from lvlogics.firmwave
-	- 
+	- Export device SN/IMEI and public key from lvlogics.firmwave
+	- Import using bulk add on dms as new devices
+	- Then export params's etc on lvl.firm and import into lvl v2 somhow
+- 
