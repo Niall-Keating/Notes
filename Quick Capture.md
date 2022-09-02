@@ -90,4 +90,6 @@
 - Watched a video on [scaling Django](https://www.youtube.com/watch?v=gCNj8mMoq38)
 	- He talks about having apps for modules,
 	- Don't have apps talking to each other via fucntion calls
-	- use an RPC like gRPC, that way you can ru all apps locally, or... you can run them on a remote server, therefore you can scal
+	- use an RPC like gRPC, that way you can ru all apps locally, or... you can run them on a remote server, therefore you can scale horizontally
+- I like the idea of having a section on the website to submit a jira ticket for support reasons
+- 
