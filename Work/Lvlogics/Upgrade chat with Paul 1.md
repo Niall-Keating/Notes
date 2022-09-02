@@ -12,3 +12,4 @@ Paul McGarrigle
 
 ## Notes
 -  
+- don't do migrations from lvlogics 
