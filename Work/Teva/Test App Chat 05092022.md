@@ -10,8 +10,16 @@ tags: [test-app, fast-api, dms, teva]
 
 ### Attendees:
 - Niall Keating
-- 
+- Paul Mcgarrigle
+- Darragh Morrissey
 
 
 ### Notes:
+- Existing G3 UDP server 
+- Basically what we are looking for
+- Move it all to fast api
+	- Has a task runner
+	- We create an event called start test, that will start it
+	- Then have an endpoint that emits the event
+- add button to top of page to start / stop
 - 
