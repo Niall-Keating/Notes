@@ -24,4 +24,6 @@ tags: [silo, lvlogics, sigfox, loka, edge4, lora]
 		- No need for temperature/humidity required
 		- RS-485 required
 		- External battery on the loka
-		- 
+
+- Loka have 5000 boards but for the wrong region
+- 
