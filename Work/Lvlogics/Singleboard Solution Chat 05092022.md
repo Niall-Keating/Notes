@@ -10,7 +10,10 @@ tags: [silo, lvlogics, sigfox, loka, edge4, lora]
 
 ### Attendees:
 - Niall Keating
-- 
+- Fergal Brenna
+- James Addie
+- Shane Bradley
+- Barry FInnegan
 
 
 ### Notes:
@@ -30,4 +33,4 @@ tags: [silo, lvlogics, sigfox, loka, edge4, lora]
 - Need to relook at the baseboard, with lantern(same crowd as last time)
 	- Levno engineers aswell
 - Current baseboard issue with brownout that bricks Loka's
-- 
+- Design
