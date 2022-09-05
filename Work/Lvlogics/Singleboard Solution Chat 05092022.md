@@ -26,4 +26,7 @@ tags: [silo, lvlogics, sigfox, loka, edge4, lora]
 		- External battery on the loka
 
 - Loka have 5000 boards but for the wrong region
+- Loka v3 will be available before christmas
+- Need to relook at the baseboard, with lantern(same crowd as last time)
+	- Levno engineers aswell
 - 
