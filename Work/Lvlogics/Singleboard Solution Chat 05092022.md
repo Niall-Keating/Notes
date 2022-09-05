@@ -29,4 +29,5 @@ tags: [silo, lvlogics, sigfox, loka, edge4, lora]
 - Loka v3 will be available before christmas
 - Need to relook at the baseboard, with lantern(same crowd as last time)
 	- Levno engineers aswell
+- Current baseboard issue with brownout that bricks Loka's
 - 
