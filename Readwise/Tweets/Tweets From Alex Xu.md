@@ -25,3 +25,9 @@
   Newsletter: https://t.co/PczMAd8Jdb
   YouTube: https://t.co/D3Z1ax6Zle 
   ![](https://pbs.twimg.com/media/FVtQqEMVEAEtVd2.jpg) ([View Tweet](https://twitter.com/alexxubyte/status/1538912387205517313))
+## New highlights added September 5, 2022 at 10:30 PM
+- A visual guide on troubleshooting Kubernetes deployments by @learnk8s 
+  Kubernetes is really complex. What steps can be automated?
+  Join a growing community of more than 100,000 readers who love the System Design newsletter. Subscribe here:
+  https://t.co/PczMAd8Jdb 
+  ![](https://pbs.twimg.com/media/Fb5xpTDUIAIu2Rb.png) ([View Tweet](https://twitter.com/alexxubyte/status/1566814679720022016))
