@@ -7,8 +7,17 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 # AWS Misc
 
-## Notes
-| Instance URL | AWS ID | 
+## EC2 Notes
+| Instance URL           | AWS ID | DMS Commit hash | Thingsboard Version | RDS(MySql) | RDS(PostGres) |
+| ---------------------- | ------ | --------------- | ------------------- | ---------- | ------------- |
+| industrial.taoglas.com |        |                 |                     |            |               |
+| connect.taoglas.com    |        |                 |                     |            |               |
+|                        |        |                 |                     |            |               |
+
+## RDS Notes
+| Instance URL | AWS ID | DMS Commit hash | Thingsboard Version | RDS(MySql) | RDS(PostGres) |
+| ------------ | ------ | --------------- | ------------------- | ---------- | ------------- |
+|              |        |                 |                     |            |               |
 
 ## Links
 [Example](https://www.example.org)
