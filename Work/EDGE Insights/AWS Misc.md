@@ -18,6 +18,20 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 | dev2.firmwave.com      | i-0dbb425f963055020 |                |                 |                     |            |               |
 |                        |                     |                |                 |                     |            |               |
 
+### industrial.taoglas.com
+
+### connect.taoglas.com
+
+
+### locate.taoglas.com
+
+### lvlogics.firmwave.com
+
+### connect02.taoglas.com 
+
+### dev2.firmwave.com 
+
+
 ## RDS Notes
 | Instance URL | AWS ID | DMS Commit hash | Thingsboard Version | RDS(MySql) | RDS(PostGres) |
 | ------------ | ------ | --------------- | ------------------- | ---------- | ------------- |
