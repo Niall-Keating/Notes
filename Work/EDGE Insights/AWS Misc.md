@@ -19,9 +19,13 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 |                        |                     |                |                 |                     |            |               |
 
 ### industrial.taoglas.com
+- Ubuntu Version: XXX
+- DMS Comnmit Hash: XXX
+- Thingsboard Version: XXX
+- MySQL(RDS)
+- Postgres 
 
 ### connect.taoglas.com
-
 
 ### locate.taoglas.com
 
@@ -30,6 +34,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 ### connect02.taoglas.com 
 
 ### dev2.firmwave.com 
+
 
 
 ## RDS Notes
