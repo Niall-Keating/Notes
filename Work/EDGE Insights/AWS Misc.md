@@ -12,6 +12,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 | ---------------------- | ------ | --------------- | ------------------- | ---------- | ------------- |
 | industrial.taoglas.com |        |                 |                     |            |               |
 | connect.taoglas.com    |        |                 |                     |            |               |
+| locate.taoglas.com     |        |                 |                     |            |               |
+| lvlogics.firmwave.com  |        |                 |                     |            |               |
+| connect02.taoglas.com  |        |                 |                     |            |               |
 |                        |        |                 |                     |            |               |
 
 ## RDS Notes
@@ -21,6 +24,3 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 ## Links
 [Example](https://www.example.org)
-
-
----
