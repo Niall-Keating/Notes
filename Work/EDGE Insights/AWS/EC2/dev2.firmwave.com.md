@@ -1,8 +1,8 @@
 # dev2.firmwave.com 
 
 ## Details
-- Size: [Size:: c6g.large]
-- Identifier: [AWS-ID:: [i-0dbb425f963055020](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0dbb425f963055020)]
+- Size: [Size:: t2.micro]
+- Identifier: [AWS-ID:: [i-04e9e772d18f7bae4](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-04e9e772d18f7bae4)]
 - Ubuntu Version: Ubuntu 22.04 LTS
 - DMS Commit:
 	- Hash: db7ed2a855888feab71f03d0a304bae448e00cba
