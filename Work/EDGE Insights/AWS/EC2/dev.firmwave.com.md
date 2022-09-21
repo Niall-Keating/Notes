@@ -1,7 +1,7 @@
 # dev.firmwave.com 
 
 ## Details
-- Size: [Size:: c6g.large]
+- Size: [Size:: t2.micro]
 - Identifier: [AWS-ID:: [i-06c019317d3f45829](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-06c019317d3f45829)]
 - Ubuntu Version: Ubuntu 14.04.6 LTS
 - DMS Commit:
