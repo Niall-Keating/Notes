@@ -1,7 +1,13 @@
+---
+date: {{date}}
+type: ec2-instance-details
+tags: [AWS, EC2]
+---
+
 # {{title}}
 
 ## Details
-- Size: [Size:: c6g.large]
+- Size: [Size:: <Instance SIZE Here>]
 - Identifier: [AWS-ID:: [i-0d9001bc6eb32f1d2](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0d9001bc6eb32f1d2)]
 - Ubuntu Version: Ubuntu 18.04.5 LTS
 - DMS Commit:
