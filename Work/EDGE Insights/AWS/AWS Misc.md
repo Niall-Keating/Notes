@@ -8,8 +8,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 # AWS Misc
 
 ```dataview
-TABLE date, project, type FROM "EC2
-SORT date ASC
+TABLE date, project, type FROM "EC2"
 ```
 
 ## EC2 Landing
