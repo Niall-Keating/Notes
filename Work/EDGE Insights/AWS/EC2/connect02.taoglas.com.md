@@ -1,6 +1,8 @@
 # connect02.taoglas.com 
 
 ## Details
+- Size: [Size:: c6g.large]
+- Identifier: [AWS-ID:: [i-06c019317d3f45829](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-06c019317d3f45829)]
 - Ubuntu Version: Ubuntu 18.04.6 LTS
 - DMS Commit:
 	- Hash: b44a8be5872957810c85c488c54f670f93afe447
