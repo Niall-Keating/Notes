@@ -44,7 +44,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - DMS Commit:
 	- Hash: eec2160805a1af8f4378e86446c7b879c73775cc
 	- Date: 04/11/2021
-- Thingsboard Version: XXX
+- Thingsboard Version: 3.3.0
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
 
@@ -56,7 +56,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - DMS Commit:
 	- Hash: f76cd42797924bf0527b63c2e1fb307fdf689578
 	- Date: 01/07/2021
-- Thingsboard Version: XXX
+- Thingsboard Version: 3.3.0
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
 
