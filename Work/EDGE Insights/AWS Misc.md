@@ -114,12 +114,12 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 ### dev2.firmwave.com 
 - Ubuntu Version: Ubuntu 22.04 LTS
-- DMS Comnmit:
+- DMS Commit:
 	- Hash: db7ed2a855888feab71f03d0a304bae448e00cba
 	- Date: 23/08/2022
-- Thingsboard Version: XXX
+- Thingsboard Version: N/A(Docker)
 - MySQL(RDS): None
-- Postgres (RDS): XXX
+- Postgres (RDS): N/A(Docker)
 #### notes
 
 ### dev.firmwave.com 
