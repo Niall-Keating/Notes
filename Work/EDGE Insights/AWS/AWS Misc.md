@@ -7,16 +7,8 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 # AWS Misc
 
-
 ```dataview
-TABLE date, project, type FROM "Work"
-WHERE project = "HealthBeacon 3.0" and type = "internal meeting"
-SORT date ASC
-```
-
-
-```dataview
-TABLE Size FROM "Work/EDGE Insights/AWS/EC2"
+TABLE file.nameAS Instance, Size FROM "Work/EDGE Insights/AWS/EC2"
 ```
 
 
