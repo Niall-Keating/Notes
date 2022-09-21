@@ -50,7 +50,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - MySQL(RDS): 
 	- Name: fw-industrial-taoglas
 	- URL: fw-industrial-taoglas.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS): XXX
+- Postgres (RDS):
+	- Name: thingsboard-m6g-1
+	- URL: 
 #### notes
 
 ### connect.taoglas.com
@@ -62,7 +64,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - MySQL(RDS):
 	- Name: fw-connect-20200112
 	- URL: fw-connect-20200112.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS): XXX
+- Postgres (RDS):
+	- Name: 
+	- URL: 
 #### notes
 
 ### locate.taoglas.com
@@ -74,7 +78,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - MySQL(RDS):
 	- Name: fw-locate
 	- URL: fw-locate.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS): XXX
+- Postgres (RDS):
+	- Name: 
+	- URL: 
 #### notes
 
 ### lvlogics.firmwave.com
@@ -86,7 +92,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - MySQL(RDS):
 	- Name: fw-silo-2019-08-22-01-18
 	- URL: fw-silo-2019-08-22-01-18.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS): XXX
+- Postgres (RDS):
+	- Name: 
+	- URL: 
 #### notes
 
 ### connect02.taoglas.com 
@@ -98,7 +106,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - MySQL(RDS):
 	- Name:  fw-connect-20200112
 	- UR: fw-connect-20200112.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS): XXX
+- Postgres (RDS):
+	- Name: 
+	- URL: 
 #### notes
 
 
@@ -119,7 +129,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - MySQL(RDS):
 	- Name: fw-dev
 	- URL: fw-dev.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS): XXX
+- Postgres (RDS):
+	- Name: 
+	- URL: 
 #### notes
 
 ## Links
