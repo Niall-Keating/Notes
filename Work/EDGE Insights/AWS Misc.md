@@ -47,7 +47,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 	- Hash: eec2160805a1af8f4378e86446c7b879c73775cc
 	- Date: 04/11/2021
 - Thingsboard Version: 3.3.0
-- MySQL(RDS): XXX
+- MySQL(RDS): 
+	- Name: fw-industrial-taoglas
+	- URL: fw-industrial-taoglas.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
 - Postgres (RDS): XXX
 #### notes
 
@@ -97,7 +99,6 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
 #### notes
-
 
 ### dev.firmwave.com 
 - Ubuntu Version: Ubuntu 14.04.6 LTS
