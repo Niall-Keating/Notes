@@ -40,7 +40,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 | [thingsboard-vodafone](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=thingsboard-vodafone;is-cluster=false)                       | PostgreSQL      | db.t3.micro   |
 
 ### industrial.taoglas.com
-- Ubuntu Version: XXX
+- Ubuntu Version: Ubuntu 18.04.5 LTS
 - DMS Commit Hash: XXX
 - Thingsboard Version: XXX
 - MySQL(RDS): XXX
