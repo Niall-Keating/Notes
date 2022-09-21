@@ -47,44 +47,11 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 
 
-### lvlogics.firmwave.com
-- Ubuntu Version: Ubuntu 16.04.5 LTS
-- DMS Commit:
-	- Hash: feebb7ba8aa5a71599b1feed123e625696d3b54d
-	- Date: 26/02/2021
-- Thingsboard Version: 2.3.0
-- MySQL(RDS):
-	- Name: fw-silo-2019-08-22-01-18
-	- URL: fw-silo-2019-08-22-01-18.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS):
-	- Name: database-1
-	- URL: database-1.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-#### notes
-
-### connect02.taoglas.com 
-- Ubuntu Version: Ubuntu 18.04.6 LTS
-- DMS Commit:
-	- Hash: b44a8be5872957810c85c488c54f670f93afe447
-	- Date: 23/09/2021
-- Thingsboard Version: 3.3.1
-- MySQL(RDS):
-	- Name:  fw-connect-20200112
-	- UR: fw-connect-20200112.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS):
-	- Name: thingsboard-vodafone
-	- URL: thingsboard-vodafone.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-#### notes
 
 
-### dev2.firmwave.com 
-- Ubuntu Version: Ubuntu 22.04 LTS
-- DMS Commit:
-	- Hash: db7ed2a855888feab71f03d0a304bae448e00cba
-	- Date: 23/08/2022
-- Thingsboard Version: N/A(Docker)
-- MySQL(RDS): None
-- Postgres (RDS): N/A(Docker)
-#### notes
+
+
+
 
 ### dev.firmwave.com 
 - Ubuntu Version: Ubuntu 14.04.6 LTS
