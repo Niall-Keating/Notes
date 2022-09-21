@@ -7,9 +7,19 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 # AWS Misc
 
+
 ```dataview
-TABLE file.name AS "File" FROM "Work/EC2"
+TABLE date, project, type FROM "Work"
+WHERE project = "HealthBeacon 3.0" and type = "internal meeting"
+SORT date ASC
 ```
+
+
+```dataview
+TABLE file.name AS File FROM "Work"
+```
+
+
 
 
 
