@@ -1,5 +1,5 @@
 ---
-project: EDGE - Insigths
+project: EDGE Insights
 date: 20-09-2022
 type: project notes
 tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
