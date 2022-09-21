@@ -52,7 +52,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 	- URL: fw-industrial-taoglas.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
 - Postgres (RDS):
 	- Name: thingsboard-m6g-1
-	- URL: 
+	- URL: thingsboard-m6g-1.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
 #### notes
 
 ### connect.taoglas.com
