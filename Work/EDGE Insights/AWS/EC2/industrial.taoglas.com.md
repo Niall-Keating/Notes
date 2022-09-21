@@ -1,8 +1,8 @@
 # industrial.taoglas.com
 
 ## Details
-- Size: [Size: c6g.large]
-- Ubuntu Version: [OS: Ubuntu 18.04.5 LTS]
+- Size: [Size:: c6g.large]
+- Ubuntu Version: [OS:: Ubuntu 18.04.5 LTS]
 - DMS Commit:
 	- Hash: eec2160805a1af8f4378e86446c7b879c73775cc
 	- Date: 04/11/2021

@@ -16,7 +16,7 @@ SORT date ASC
 
 
 ```dataview
-TABLE FROM "Work/EDGE Insights/AWS/EC2"
+TABLE Size FROM "Work/EDGE Insights/AWS/EC2"
 ```
 
 
