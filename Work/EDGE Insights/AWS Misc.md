@@ -39,7 +39,8 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 | [thingsboard-m6g-1](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=thingsboard-m6g-1;is-cluster=false)                             | PostgreSQL      | db.m6g.large  |
 | [thingsboard-vodafone](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=thingsboard-vodafone;is-cluster=false)                       | PostgreSQL      | db.t3.micro   |
 
-## EC2 
+
+## EC2 Instance Details
 ### industrial.taoglas.com
 - Ubuntu Version: Ubuntu 18.04.5 LTS
 - DMS Commit:
@@ -116,6 +117,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - Postgres (RDS): XXX
 
 #### notes
+
 
 ## Links
 [Example](https://www.example.org)
