@@ -12,8 +12,6 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 TABLE AWS-ID AS "AWS Identifier", Size FROM "Work/EDGE Insights/AWS/EC2"
 ```
 
-
-
 ## RDS Landing
 | Database Identifier                                                                                                                                                | Database Engine | Database Size |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ------------- |
@@ -38,12 +36,3 @@ TABLE AWS-ID AS "AWS Identifier", Size FROM "Work/EDGE Insights/AWS/EC2"
 
 ## Links
 [Example](https://www.example.org)
-
-
-
-### fw-industrial-taoglas
-yes
-
-ass
-
-
