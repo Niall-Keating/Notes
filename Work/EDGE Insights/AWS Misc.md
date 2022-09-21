@@ -79,9 +79,13 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 ### lvlogics.firmwave.com
 - Ubuntu Version: Ubuntu 16.04.5 LTS
-- DMS Comnmit Hash: XXX
+- DMS Commit:
+	- Hash: feebb7ba8aa5a71599b1feed123e625696d3b54d
+	- Date: 26/02/2021
 - Thingsboard Version: XXX
-- MySQL(RDS): XXX
+- MySQL(RDS):
+	- Name: fw-silo-2019-08-22-01-18
+	- U
 - Postgres (RDS): XXX
 #### notes
 
