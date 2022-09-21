@@ -7,6 +7,11 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 # AWS Misc
 
+```dataview
+TABLE date, project, type FROM "EC2
+SORT date ASC
+```
+
 ## EC2 Landing
 | Instance URL                                      | Instance ID                                                                                                                              | Instance Size |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -53,17 +58,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 
 
-### dev.firmwave.com 
-- Ubuntu Version: Ubuntu 14.04.6 LTS
-- DMS Commit:
-	- Hash: b046dadad8d3fab5312dfc523f930307816e8cda
-	- Date: 12/05/2020
-- Thingsboard Version: 2.0.3
-- MySQL(RDS):
-	- Name: fw-dev
-	- URL: fw-dev.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres: Local
-#### notes
+
 
 ## Links
 [Example](https://www.example.org)
