@@ -22,24 +22,23 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 | Database Identifier                                                                                                                                                | Database Engine | Database Size |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ------------- |
 | [connect-thingsboard](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=connect-thingsboard;is-cluster=false)                         |    PostgreSQL             |               |
-| [connectlocate-database-postgres](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=connectlocate-database-postgres;is-cluster=false) |                 |               |
-PostgreSQL| [database-1](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=database-1;is-cluster=false)                                           |                 |               |
-| [dev-postgres](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=dev-postgres;is-cluster=false)                                       |                 |               |
-| [dev2-dms](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=dev2-dms;is-cluster=false)                                               |                 |               |
-| [fw-connect-20200112](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-connect-20200112;is-cluster=false)                         |                 |               |
-| [fw-dev](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-dev;is-cluster=false)                                                   |                 |               |
-| [fw-hb-staging](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-hb-staging;is-cluster=false)                                     |                 |               |
-| [fw-industrial-taoglas](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-industrial-taoglas;is-cluster=false)                     |                 |               |
-| [fw-locate](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-locate;is-cluster=false)                                             |                 |               |
-| [fw-silo-2019-08-22-01-18](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-silo-2019-08-22-01-18;is-cluster=false)               |                 |               |
-| [fw-staging](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-staging;is-cluster=false)                                           |                 |               |
-| [fw-staging-19012020](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-staging-19012020;is-cluster=false)                         |                 |               |
-| [industrial-dms](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=industrial-dms;is-cluster=false)                                   |                 |               |
-| [industrial-taoglas](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=industrial-taoglas;is-cluster=false)                           |                 |               |
-| [thingsboard-m6g-1](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=thingsboard-m6g-1;is-cluster=false)                             |                 |               |
-| [thingsboard-vodafone](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=thingsboard-vodafone;is-cluster=false)                       |                 |               |
+| [connectlocate-database-postgres](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=connectlocate-database-postgres;is-cluster=false) |       PostgreSQL          |               |
+| [database-1](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=database-1;is-cluster=false)                                           |    PostgreSQL             |               |
+| [dev-postgres](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=dev-postgres;is-cluster=false)                                       |      PostgreSQL           |               |
+| [dev2-dms](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=dev2-dms;is-cluster=false)                                               |  MySQL Community               |               |
+| [fw-connect-20200112](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-connect-20200112;is-cluster=false)                         |      MySQL Community           |               |
+| [fw-dev](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-dev;is-cluster=false)                                                   |     MySQL Community            |               |
+| [fw-hb-staging](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-hb-staging;is-cluster=false)                                     |    MySQL Community             |               |
+| [fw-industrial-taoglas](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-industrial-taoglas;is-cluster=false)                     |  MySQL Community               |               |
+| [fw-locate](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-locate;is-cluster=false)                                             | MySQL Community                 |               |
+| [fw-silo-2019-08-22-01-18](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-silo-2019-08-22-01-18;is-cluster=false)               |   MySQL Community              |               |
+| [fw-staging](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-staging;is-cluster=false)                                           |  MySQL Community               |               |
+| [fw-staging-19012020](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=fw-staging-19012020;is-cluster=false)                         |   MySQL Community              |               |
+| [industrial-dms](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=industrial-dms;is-cluster=false)                                   | MySQL Community                |               |
+| [industrial-taoglas](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=industrial-taoglas;is-cluster=false)                           |  PostgreSQL               |               |
+| [thingsboard-m6g-1](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=thingsboard-m6g-1;is-cluster=false)                             |  PostgreSQL               |               |
+| [thingsboard-vodafone](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=thingsboard-vodafone;is-cluster=false)                       |   PostgreSQL              |               |
 |                                                                                                                                                                    |                 |               |
-
 
 ### industrial.taoglas.com
 - Ubuntu Version: XXX
