@@ -79,8 +79,8 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 	- Name: fw-locate
 	- URL: fw-locate.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
 - Postgres (RDS):
-	- Name: 
-	- URL: 
+	- Name: connectlocate-database-postgres
+	- URL: connectlocate-database-postgres.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
 #### notes
 
 ### lvlogics.firmwave.com
@@ -93,8 +93,8 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 	- Name: fw-silo-2019-08-22-01-18
 	- URL: fw-silo-2019-08-22-01-18.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
 - Postgres (RDS):
-	- Name: 
-	- URL: 
+	- Name: database-1
+	- URL: database-1.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
 #### notes
 
 ### connect02.taoglas.com 
