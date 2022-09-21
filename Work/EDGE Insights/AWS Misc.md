@@ -17,6 +17,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 | [connect02.taoglas.com](#connect02.taoglas.com)   | [i-06a4d1280f6f4e245](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-06a4d1280f6f4e245) | c6g.medium    |
 | [dev2.firmwave.com](#dev2.firmwave.com)           | [i-0dbb425f963055020](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0dbb425f963055020) | t2.micro      |
 
+
 ## RDS Landing
 | Database Identifier                                                                                                                                                | Database Engine | Database Size |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ------------- |
@@ -48,9 +49,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - Thingsboard Version: 3.3.0
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
-
 #### notes
-
 
 ### connect.taoglas.com
 - Ubuntu Version: Ubuntu 18.04.5 LTS
@@ -60,9 +59,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - Thingsboard Version: 3.3.0
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
-
 #### notes
-
 
 ### locate.taoglas.com
 - Ubuntu Version: Ubuntu 16.04.6 LTS
@@ -72,9 +69,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - Thingsboard Version: 2.4.2
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
-
 #### notes
-
 
 ### lvlogics.firmwave.com
 - Ubuntu Version: XXX
@@ -82,9 +77,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - Thingsboard Version: XXX
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
-
 #### notes
-
 
 ### connect02.taoglas.com 
 - Ubuntu Version: Ubuntu 18.04.6 LTS
@@ -94,7 +87,6 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - Thingsboard Version: 3.3.1
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
-
 #### notes
 
 
@@ -104,7 +96,6 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - Thingsboard Version: XXX
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
-
 #### notes
 
 
@@ -114,9 +105,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - Thingsboard Version: 2.0.3
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
-
 #### notes
-
 
 ## Links
 [Example](https://www.example.org)
