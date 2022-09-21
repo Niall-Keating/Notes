@@ -10,7 +10,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 ## EC2 Landing
 | Instance URL                                      | Instance ID                                                                                                                              | Instance Size |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [industrial.taoglas.com](#industrial.taoglas.com) | [i-0d9001bc6eb32f1d2](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0d9001bc6eb32f1d2) | c6g.large     |
+| [[industrial.taoglas.com]] | [i-0d9001bc6eb32f1d2](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0d9001bc6eb32f1d2) | c6g.large     |
 | [connect.taoglas.com](#connect.taoglas.com)       | [i-06c019317d3f45829](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-06c019317d3f45829) | c6g.large     |
 | [locate.taoglas.com](#locate.taoglas.com)         | [i-09afeaae7d260d0ac](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-09afeaae7d260d0ac) | t2.medium     |
 | [lvlogics.firmwave.com](#locate.taoglas.com)      | [i-0b088722ecc90b842](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0b088722ecc90b842) | t2.medium     |
@@ -41,19 +41,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 
 ## EC2 Instance Details
-### industrial.taoglas.com
-- Ubuntu Version: Ubuntu 18.04.5 LTS
-- DMS Commit:
-	- Hash: eec2160805a1af8f4378e86446c7b879c73775cc
-	- Date: 04/11/2021
-- Thingsboard Version: 3.3.0
-- MySQL(RDS): 
-	- Name: [fw-industrial-taoglas]
-	- URL: fw-industrial-taoglas.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS):
-	- Name: thingsboard-m6g-1
-	- URL: thingsboard-m6g-1.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-#### notes
+
 
 ### connect.taoglas.com
 - Ubuntu Version: Ubuntu 18.04.5 LTS
