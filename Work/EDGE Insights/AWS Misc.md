@@ -136,3 +136,12 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 ## Links
 [Example](https://www.example.org)
+
+
+
+### fw-industrial-taoglas
+yes
+
+ass
+
+
