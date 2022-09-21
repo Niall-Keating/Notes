@@ -78,7 +78,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 #### notes
 
 ### lvlogics.firmwave.com
-- Ubuntu Version: XXX
+- Ubuntu Version: Ubuntu 16.04.5 LTS
 - DMS Comnmit Hash: XXX
 - Thingsboard Version: XXX
 - MySQL(RDS): XXX
@@ -108,7 +108,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 ### dev.firmwave.com 
 - Ubuntu Version: Ubuntu 14.04.6 LTS
-- DMS Comnmit Hash: XXX
+- DMS Commit:
+	- Hash: b046dadad8d3fab5312dfc523f930307816e8cda
+	- Date: 12/05/2020
 - Thingsboard Version: 2.0.3
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
