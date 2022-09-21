@@ -8,8 +8,10 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 # AWS Misc
 
 ```dataview
-TABLE date, project, type FROM "EC2"
+TABLE file.name AS "File" FROM "Work/EC2"
 ```
+
+
 
 ## EC2 Landing
 | Instance URL                                      | Instance ID                                                                                                                              | Instance Size |
