@@ -118,7 +118,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 	- Hash: db7ed2a855888feab71f03d0a304bae448e00cba
 	- Date: 23/08/2022
 - Thingsboard Version: XXX
-- MySQL(RDS): XXX
+- MySQL(RDS): None
 - Postgres (RDS): XXX
 #### notes
 
