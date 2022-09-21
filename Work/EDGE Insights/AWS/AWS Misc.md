@@ -43,33 +43,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 ## EC2 Instance Details
 
 
-### connect.taoglas.com
-- Ubuntu Version: Ubuntu 18.04.5 LTS
-- DMS Commit:
-	- Hash: f76cd42797924bf0527b63c2e1fb307fdf689578
-	- Date: 01/07/2021
-- Thingsboard Version: 3.3.0
-- MySQL(RDS):
-	- Name: fw-connect-20200112
-	- URL: fw-connect-20200112.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS):
-	- Name: connect-thingsboard
-	- URL: connect-thingsboard.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-#### notes
 
-### locate.taoglas.com
-- Ubuntu Version: Ubuntu 16.04.6 LTS
-- DMS Commit:
-	- Hash: 744621fc6c09e0f2a981802efc3e0e8cbeb03d28
-	- Date: 03/03/2020
-- Thingsboard Version: 2.4.2
-- MySQL(RDS):
-	- Name: fw-locate
-	- URL: fw-locate.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS):
-	- Name: connectlocate-database-postgres
-	- URL: connectlocate-database-postgres.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-#### notes
+
+
 
 ### lvlogics.firmwave.com
 - Ubuntu Version: Ubuntu 16.04.5 LTS
