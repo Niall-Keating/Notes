@@ -64,8 +64,10 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 
 ### locate.taoglas.com
-- Ubuntu Version: XXX
-- DMS Comnmit Hash: XXX
+- Ubuntu Version: Ubuntu 16.04.6 LTS
+- DMS Commit:
+	- Hash: 744621fc6c09e0f2a981802efc3e0e8cbeb03d28
+	- Date: 03/03/2020
 - Thingsboard Version: XXX
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
@@ -84,8 +86,10 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 
 ### connect02.taoglas.com 
-- Ubuntu Version: XXX
-- DMS Comnmit Hash: XXX
+- Ubuntu Version: Ubuntu 18.04.6 LTS
+- DMS Commit:
+	- Hash: b44a8be5872957810c85c488c54f670f93afe447
+	- Date: 23/09/2021
 - Thingsboard Version: XXX
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
