@@ -107,7 +107,14 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 #### notes
 
 
+### dev.firmwave.com 
+- Ubuntu Version: Ubuntu 14.04.6 LTS
+- DMS Comnmit Hash: XXX
+- Thingsboard Version: XXX
+- MySQL(RDS): XXX
+- Postgres (RDS): XXX
 
+#### notes
 
 ## RDS Notes
 | Instance URL | AWS ID | DMS Commit hash | Thingsboard Version | RDS(MySql) | RDS(PostGres) |
