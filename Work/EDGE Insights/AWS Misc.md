@@ -107,8 +107,8 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 	- Name:  fw-connect-20200112
 	- UR: fw-connect-20200112.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
 - Postgres (RDS):
-	- Name: 
-	- URL: 
+	- Name: thingsboard-vodafone
+	- URL: thingsboard-vodafone.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
 #### notes
 
 
