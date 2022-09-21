@@ -7,7 +7,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 # AWS Misc
 
-## EC2 Notes
+## EC2 Landing
 | Instance URL                                      | Instance ID                                                                                                                              |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | [industrial.taoglas.com](#industrial.taoglas.com) | [i-0d9001bc6eb32f1d2](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0d9001bc6eb32f1d2) |
@@ -18,6 +18,8 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 | [dev2.firmwave.com](#dev2.firmwave.com)           | [i-0dbb425f963055020](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0dbb425f963055020) |
 |                                                  |                                                                                                                                          |
 
+## RDS Landing
+| Database Name | 
 
 
 ### industrial.taoglas.com
