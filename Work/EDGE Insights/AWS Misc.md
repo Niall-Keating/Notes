@@ -10,7 +10,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 ## EC2 Landing
 | Instance URL                                      | Instance ID                                                                                                                              | Instance Size |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [industrial.taoglas.com](#industrial.taoglas.com) | [i-0d9001bc6eb32f1d2](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0d9001bc6eb32f1d2) |               |
+| [industrial.taoglas.com](#industrial.taoglas.com) | [i-0d9001bc6eb32f1d2](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0d9001bc6eb32f1d2) | c6g.large     |
 | [connect.taoglas.com](#connect.taoglas.com)       | [i-06c019317d3f45829](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-06c019317d3f45829) |               |
 | [locate.taoglas.com](#locate.taoglas.com)         | [i-09afeaae7d260d0ac](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-09afeaae7d260d0ac) |               |
 | [lvlogics.firmwave.com](#locate.taoglas.com)      | [i-0b088722ecc90b842](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0b088722ecc90b842) |               |
