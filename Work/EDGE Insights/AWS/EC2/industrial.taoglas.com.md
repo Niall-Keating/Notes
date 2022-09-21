@@ -1,3 +1,8 @@
+---
+date: 
+type: ec2-instance-details
+tags: [AWS, EC2]
+---
 # industrial.taoglas.com
 
 ## Details

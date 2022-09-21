@@ -1,3 +1,8 @@
+---
+date: 
+type: ec2-instance-details
+tags: [AWS, EC2]
+---
 # locate.taoglas.com
 
 ## Details
