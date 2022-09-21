@@ -2,7 +2,7 @@
 
 ## Details
 - Size: [Size:: c6g.large]
-- Identifier: [AWS ID:: [i-0d9001bc6eb32f1d2](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0d9001bc6eb32f1d2)]
+- Identifier: [AWS-ID:: [i-0d9001bc6eb32f1d2](https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#InstanceDetails:instanceId=i-0d9001bc6eb32f1d2)]
 - Ubuntu Version: [OS:: Ubuntu 18.04.5 LTS]
 - DMS Commit:
 	- Hash: eec2160805a1af8f4378e86446c7b879c73775cc
