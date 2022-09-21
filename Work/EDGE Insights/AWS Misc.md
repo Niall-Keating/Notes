@@ -88,7 +88,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - DMS Commit:
 	- Hash: feebb7ba8aa5a71599b1feed123e625696d3b54d
 	- Date: 26/02/2021
-- Thingsboard Version: XXX
+- Thingsboard Version: 2.3.0
 - MySQL(RDS):
 	- Name: fw-silo-2019-08-22-01-18
 	- URL: fw-silo-2019-08-22-01-18.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
@@ -129,9 +129,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 - MySQL(RDS):
 	- Name: fw-dev
 	- URL: fw-dev.cb6fji9tlpxx.eu-west-1.rds.amazonaws.com
-- Postgres (RDS):
-	- Name: 
-	- URL: 
+- Postgres: Local
 #### notes
 
 ## Links
