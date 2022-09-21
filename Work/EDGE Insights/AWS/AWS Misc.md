@@ -8,7 +8,7 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 # AWS Misc
 
 ```dataview
-TABLE file.nameAS Instance, Size FROM "Work/EDGE Insights/AWS/EC2"
+TABLE Size FROM "Work/EDGE Insights/AWS/EC2"
 ```
 
 
