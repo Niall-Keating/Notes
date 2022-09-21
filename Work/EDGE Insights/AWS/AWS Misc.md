@@ -16,8 +16,9 @@ SORT date ASC
 
 
 ```dataview
-TABLE file.name AS File FROM "Work"
+TABLE FROM "Work"
 ```
+
 
 
 
