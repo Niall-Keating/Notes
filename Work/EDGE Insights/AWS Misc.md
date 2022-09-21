@@ -19,9 +19,12 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 |                                                   |                                                                                                                                          |               |
 
 ## RDS Landing
-| Database Identifier | Database Engine | Database Size |
-| ------------------- | --------------- | ------------- |
-|                     |                 |               |
+| Database Identifier                                                                                                                                                | Database Engine | Database Size |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ------------- |
+| [connect-thingsboard](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=connect-thingsboard;is-cluster=false)                         |                 |               |
+| [connectlocate-database-postgres](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=connectlocate-database-postgres;is-cluster=false) |                 |               |
+| [database-1](https://eu-west-1.console.aws.amazon.com/rds/home?region=eu-west-1#database:id=database-1;is-cluster=false)                                           |                 |               |
+|                                                                                                                                                                    |                 |               |
 
 
 ### industrial.taoglas.com
