@@ -41,7 +41,9 @@ tags: [aws, ec2, rds, security-groups, edge-insights, dms, infrastructure]
 
 ### industrial.taoglas.com
 - Ubuntu Version: Ubuntu 18.04.5 LTS
-- DMS Commit Hash: XXX
+- DMS Commit:
+	- Hash: eec2160805a1af8f4378e86446c7b879c73775cc
+	- Date: 04/11/2021
 - Thingsboard Version: XXX
 - MySQL(RDS): XXX
 - Postgres (RDS): XXX
