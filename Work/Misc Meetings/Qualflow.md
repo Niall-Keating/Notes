@@ -14,4 +14,4 @@ tags: []
 
 
 ### Notes:
-- Looking at ig10 but would be interested in 3 rs485 interfaces instead of 232 and ca
+- Looking at ig10 but would be interested in 3 rs485 interfaces instead of 232 and canbus
